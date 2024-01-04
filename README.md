@@ -7,6 +7,7 @@
 1. [File structure](#file-structure)
     - [Results App](#bootstrapped_resultspy)
     - [merged_yellis_diff_with_exams.csv](#merged_yellis_diff_with_examscsv)
+    - [Images](#images)
 1. [Future Development](#future-development)
 1. [License information](#license-information)
 
@@ -22,9 +23,9 @@ The dataset examines two rounds of 'mock' (practise) exams, the final GCSE exam 
 
 See the requirements.txt file within the repository for the required modules.
 
-Once installed, running the bootstrapped_results.py script from the terminal will provide an http link that you can copy and paste into a browser to review the output
+Once installed, running the bootstrapped_results.py script from the terminal will provide an http link that  can be copied and pasted into a browser to review the output.
 
-running CTRL + C in the terminal will stop the script running when you want to finish
+Running CTRL + C in the terminal will stop the script running.
 
 ## Usage instructions
 
@@ -66,6 +67,9 @@ This is the script that will run the dashboard when run from the terminal.
 
 ### merged_yellis_diff_with_exams.csv
 This is a csv file of the data generated to showcase the dashboard - this was done separately in python but the steps to do so are not included within this repository
+
+### Images
+These are not assets for the dashboard - these are screenshots and gifs for this project README.md file
 
 ### requirements.txt
 Lists the required modules for this project
