@@ -1,0 +1,2181 @@
+Student,Gender,Subject,Exam_Series,Score,Yellis_GCSE_Diff,colour
+Reese Kilmer,F,Drama,MOCK 1,2,-2,red
+Henry Berry,F,Geography,MOCK 1,3,-1.5,red
+Jayne Neeson,M,Geography,MOCK 1,5,0.5,green
+Cameron Wray,M,Geography,MOCK 1,8,-1,red
+Angela Hudson,M,Geography,MOCK 1,4,0.5,green
+Mary Tandy,M,Geography,MOCK 1,5,1,green
+Rip Winslet,M,Geography,MOCK 1,3,0.5,green
+Dustin Tautou,M,Geography,MOCK 1,3,0.5,green
+Kenneth Paltrow,M,Geography,MOCK 1,6,-1.5,red
+Adam Grant,M,Geography,MOCK 1,4,-1,red
+Sean Williams,M,Geography,MOCK 1,6,-0.5,red
+Sandra Peck,F,English Lang.,MOCK 1,8,1.5,green
+Alec Wayne,M,English Lang.,MOCK 1,6,0.5,green
+Woody Hoffman,F,English Lang.,MOCK 1,3,0,blue
+Julia Mcqueen,M,English Lang.,MOCK 1,4,-1,red
+Michelle Mcconaughey,F,Geography,MOCK 1,9,3,green
+Rip Crawford,M,English Lang.,MOCK 1,5,-1.5,red
+Dan Harris,F,Geography,MOCK 1,9,0.5,green
+Penelope Pinkett,M,Geography,MOCK 1,7,0.5,green
+Tim Hackman,M,Geography,MOCK 1,5,-2,red
+Judy Dean,M,Geography,MOCK 1,5,-1.5,red
+Burt Dukakis,F,Geography,MOCK 1,3,-1,red
+Tom Mckellen,M,Geography,MOCK 1,5,-1,red
+Jodie Degeneres,F,Geography,MOCK 1,8,-2,red
+Tom Miranda,M,Geography,MOCK 1,8,-1,red
+Fay Kilmer,F,Geography,MOCK 1,6,-2.5,red
+Nick Stallone,M,Geography,MOCK 1,3,2.5,green
+Parker Goldberg,M,Geography,MOCK 1,7,2,green
+Julia Barrymore,F,Geography,MOCK 1,4,1,green
+Frances Day-Lewis,F,Geography,MOCK 1,8,3,green
+Anne Cronyn,M,Geography,MOCK 1,6,-1,red
+Natalie Hopkins,M,Geography,MOCK 1,5,0,blue
+Gary Phoenix,M,Geography,MOCK 1,7,0.5,green
+Reese Kilmer,F,Geography,MOCK 1,2,-2,red
+Sandra Peck,F,Geography,MOCK 1,9,1.5,green
+Kevin Bloom,M,English Lang.,MOCK 1,3,0,blue
+Sandra Kilmer,M,English Lang.,MOCK 1,4,-0.5,red
+Fred Costner,F,English Lang.,MOCK 1,4,-0.5,red
+Cuba Olivier,M,English Lang.,MOCK 1,3,-2.5,red
+Vivien Bergen,F,English Lang.,MOCK 1,6,0,blue
+Uma Wood,F,English Lang.,MOCK 1,4,0,blue
+Karl Berry,F,English Lang.,MOCK 1,7,1,green
+Zero Cage,M,English Lang.,MOCK 1,4,-1,red
+Helen Voight,M,English Lang.,MOCK 1,4,-1,red
+Christian Gable,M,English Lang.,MOCK 1,5,-1.5,red
+Matthew Johansson,M,English Lang.,MOCK 1,7,1,green
+Grace Mostel,M,English Lang.,MOCK 1,7,1,green
+Bette Nicholson,M,English Lang.,MOCK 1,5,1.5,green
+Johnny Lollobrigida,M,English Lang.,MOCK 1,5,-0.5,red
+Jennifer Davis,M,English Lang.,MOCK 1,5,-1.5,red
+Nick Wahlberg,M,English Lang.,MOCK 1,4,-1.5,red
+Joe Swank,M,English Lang.,MOCK 1,5,-1.5,red
+Cameron Streep,M,English Lang.,MOCK 1,6,-0.5,red
+Dan Torn,M,English Lang.,MOCK 1,7,1.5,green
+Lucille Tracy,M,English Lang.,MOCK 1,7,2,green
+Elvis Marx,M,English Lang.,MOCK 1,4,-2,red
+Kirsten Paltrow,F,English Lang.,MOCK 1,6,2,green
+Grace Mostel,M,French,MOCK 1,7,2.5,green
+Matthew Johansson,M,French,MOCK 1,8,1.5,green
+Vivien Bergen,F,French,MOCK 1,5,1,green
+Dan Torn,M,French,MOCK 1,6,2,green
+Bob Fawcett,F,English Lang.,MOCK 1,7,2,green
+Lucille Tracy,M,French,MOCK 1,6,1,green
+Judy Dean,M,French,MOCK 1,4,-1,red
+Tom Miranda,M,French,MOCK 1,5,0.5,green
+Mena Temple,M,French,MOCK 1,4,-1,red
+Christian Neeson,F,French,MOCK 1,7,3.5,green
+Kenneth Paltrow,M,French,MOCK 1,6,-1.5,red
+Michelle Mcconaughey,F,French,MOCK 1,8,2.5,green
+Rip Crawford,M,French,MOCK 1,5,-3.5,red
+Woody Hoffman,F,Geography,MOCK 1,3,-0.5,red
+Julia Mcqueen,M,Geography,MOCK 1,6,-1,red
+Rip Crawford,M,Geography,MOCK 1,4,-5,red
+Cameron Streep,M,Combined Science,MOCK 1,5,2,green
+Kevin Bloom,M,Combined Science,MOCK 1,3,-0.5,red
+Julia Mcqueen,M,Combined Science,MOCK 1,5.5,0,blue
+Alec Wayne,M,Combined Science,MOCK 1,7,-0.5,red
+Sissy Sobieski,M,Combined Science,MOCK 1,4.5,1.5,green
+Tim Hackman,M,Combined Science,MOCK 1,3,-1,red
+Sandra Kilmer,M,Combined Science,MOCK 1,4,-0.5,red
+Milla Peck,F,Combined Science,MOCK 1,4,0.5,green
+Judy Dean,M,Combined Science,MOCK 1,5,0,blue
+Burt Dukakis,F,Combined Science,MOCK 1,4,-1,red
+Goldie Brody,M,Combined Science,MOCK 1,6.5,2,green
+Johnny Cage,M,Combined Science,MOCK 1,4,-0.5,red
+Kirk Jovovich,M,Combined Science,MOCK 1,3,-0.5,red
+Nick Stallone,M,Combined Science,MOCK 1,4.5,2,green
+Audrey Olivier,M,Combined Science,MOCK 1,5.5,2,green
+Anne Cronyn,M,Combined Science,MOCK 1,5.5,0,blue
+Lucille Tracy,M,Combined Science,MOCK 1,5.5,2,green
+Fred Costner,F,Combined Science,MOCK 1,4,0.5,green
+Elvis Marx,M,History,MOCK 1,4,-2,red
+Cameron Streep,M,History,MOCK 1,6,-1.5,red
+Kevin Bloom,M,History,MOCK 1,2,-0.5,red
+Alec Wayne,M,History,MOCK 1,9,-0.5,red
+Johnny Cage,M,History,MOCK 1,3,-0.5,red
+Tom Miranda,M,History,MOCK 1,6,-1,red
+Helen Voight,M,Combined Science,MOCK 1,3,-1,red
+Julia Barrymore,F,History,MOCK 1,5,-2,red
+Penelope Pinkett,M,History,MOCK 1,7,-0.5,red
+Dan Harris,F,History,MOCK 1,9,-0.5,red
+Henry Berry,F,History,MOCK 1,3,-1.5,red
+Cameron Wray,M,History,MOCK 1,6,-1,red
+Mary Tandy,M,History,MOCK 1,5,1.5,green
+Cuba Olivier,M,Combined Science,MOCK 1,4.5,-2.5,red
+Gary Phoenix,M,History,MOCK 1,8,1.5,green
+Gary Phoenix,M,Combined Science,MOCK 1,5,0.5,green
+Carmen Hunt,M,Combined Science,MOCK 1,6,2,green
+Penelope Pinkett,M,Biology,MOCK 1,6,-0.5,red
+Tim Hackman,M,English Lang.,MOCK 1,3,-2,red
+Sissy Sobieski,M,English Lang.,MOCK 1,4,1,green
+Nick Wahlberg,M,Geography,MOCK 1,5,-1.5,red
+Jennifer Davis,M,Geography,MOCK 1,6,0.5,green
+Christian Gable,M,Geography,MOCK 1,4,-1.5,red
+Zero Cage,M,Geography,MOCK 1,6,-2.5,red
+Milla Peck,F,English Lang.,MOCK 1,4,0,blue
+Karl Berry,F,Geography,MOCK 1,8,1,green
+Lucille Tracy,M,Geography,MOCK 1,7,0,blue
+Kirsten Paltrow,F,Geography,MOCK 1,6,2.5,green
+Elvis Marx,M,Geography,MOCK 1,7,-1,red
+Sandra Kilmer,M,Geography,MOCK 1,4,-1.5,red
+Cameron Streep,M,Geography,MOCK 1,5,0.5,green
+Kevin Bloom,M,Geography,MOCK 1,3,-0.5,red
+Cuba Olivier,M,Geography,MOCK 1,4,-3,red
+Audrey Olivier,M,English Lang.,MOCK 1,5,0,blue
+Judy Dean,M,English Lang.,MOCK 1,4,-0.5,red
+Burt Dukakis,F,English Lang.,MOCK 1,3,-2,red
+Dustin Tautou,M,Combined Science,MOCK 1,3,0.5,green
+Henry Berry,F,Combined Science,MOCK 1,4,-0.5,red
+Jayne Neeson,M,Combined Science,MOCK 1,4.5,0.5,green
+Cameron Wray,M,Combined Science,MOCK 1,6,1.5,green
+Ray Johansson,M,Combined Science,MOCK 1,4.5,0,blue
+Angela Hudson,M,Combined Science,MOCK 1,4,1.5,green
+Mary Tandy,M,Combined Science,MOCK 1,5.5,1.5,green
+Jessica Bailey,F,Combined Science,MOCK 1,5,2,green
+Rip Winslet,M,Combined Science,MOCK 1,4,0.5,green
+Adam Grant,M,Combined Science,MOCK 1,5,0.5,green
+Jodie Degeneres,F,English Lang.,MOCK 1,6,-1.5,red
+Johnny Cage,M,English Lang.,MOCK 1,6,-0.5,red
+Goldie Brody,M,English Lang.,MOCK 1,6,0.5,green
+Tom Mckellen,M,English Lang.,MOCK 1,4,-3,red
+Val Bolger,M,English Lang.,MOCK 1,4,0,blue
+Nick Wahlberg,M,Food Prep. & Nut.,MOCK 1,6,-0.5,red
+Ed Chase,M,Food Prep. & Nut.,MOCK 1,4,-1.5,red
+Johnny Lollobrigida,M,Food Prep. & Nut.,MOCK 1,5,-1.5,red
+Christian Gable,M,Food Prep. & Nut.,MOCK 1,5,-0.5,red
+Nick Stallone,M,English Lit.,MOCK 1,3,-1.5,red
+Reese Kilmer,F,English Lit.,MOCK 1,2,-2,red
+Parker Goldberg,M,English Lit.,MOCK 1,6,1,green
+Julia Barrymore,F,English Lit.,MOCK 1,6,-2,red
+Frances Day-Lewis,F,English Lit.,MOCK 1,9,2.5,green
+Anne Cronyn,M,English Lit.,MOCK 1,5,-2,red
+Kirk Jovovich,M,English Lit.,MOCK 1,5,-2,red
+Natalie Hopkins,M,English Lit.,MOCK 1,6,-0.5,red
+Carmen Hunt,M,English Lit.,MOCK 1,7,0,blue
+Mena Temple,M,English Lit.,MOCK 1,5,-3.5,red
+Penelope Pinkett,M,English Lit.,MOCK 1,7,-1.5,red
+Fay Kilmer,F,English Lit.,MOCK 1,7,0.5,green
+Dan Harris,F,English Lit.,MOCK 1,7,0,blue
+Jude Cruise,F,English Lit.,MOCK 1,3,-0.5,red
+Gary Phoenix,M,English Lit.,MOCK 1,8,1.5,green
+Christian Akroyd,M,English Lit.,MOCK 1,4,-2.5,red
+Tom Miranda,M,English Lit.,MOCK 1,8,1,green
+Goldie Brody,M,English Lit.,MOCK 1,7,-1,red
+Kevin Bloom,M,English Lit.,MOCK 1,4,-1,red
+Rip Crawford,M,English Lit.,MOCK 1,6,-5,red
+Julia Mcqueen,M,English Lit.,MOCK 1,5,-2,red
+Woody Hoffman,F,English Lit.,MOCK 1,3,0,blue
+Alec Wayne,M,English Lit.,MOCK 1,7,-1,red
+Sandra Peck,F,English Lit.,MOCK 1,9,1.5,green
+Johnny Cage,M,English Lit.,MOCK 1,4,-2,red
+Sissy Sobieski,M,English Lit.,MOCK 1,6,0,blue
+Milla Peck,F,English Lit.,MOCK 1,6,-1,red
+Audrey Olivier,M,English Lit.,MOCK 1,6,0.5,green
+Judy Dean,M,English Lit.,MOCK 1,5,-0.5,red
+Burt Dukakis,F,English Lit.,MOCK 1,3,-1,red
+Val Bolger,M,English Lit.,MOCK 1,5,-1,red
+Tom Mckellen,M,English Lit.,MOCK 1,4,-3,red
+Tim Hackman,M,English Lit.,MOCK 1,5,1,green
+Dustin Tautou,M,English Lit.,MOCK 1,5,0,blue
+Henry Berry,F,English Lit.,MOCK 1,5,-1.5,red
+Christian Neeson,F,English Lit.,MOCK 1,5,-1,red
+Elvis Marx,M,Biology,MOCK 1,8,0.5,green
+Woody Hoffman,F,Biology,MOCK 1,2,-1.5,red
+Sandra Peck,F,Biology,MOCK 1,9,1,green
+Tom Mckellen,M,Biology,MOCK 1,7,-0.5,red
+Jodie Degeneres,F,Biology,MOCK 1,7,-2,red
+Tom Miranda,M,Biology,MOCK 1,8,0,blue
+Dan Torn,M,Biology,MOCK 1,9,2,green
+Reese Kilmer,F,Biology,MOCK 1,7,-1.5,red
+Julia Barrymore,F,Biology,MOCK 1,6,-0.5,red
+Frances Day-Lewis,F,Biology,MOCK 1,9,1.5,green
+Sean Williams,M,Biology,MOCK 1,8,0,blue
+Michelle Mcconaughey,F,Biology,MOCK 1,8,0.5,green
+Dan Harris,F,Biology,MOCK 1,8,-1.5,red
+Fay Kilmer,F,Biology,MOCK 1,6,-1,red
+Parker Goldberg,M,Biology,MOCK 1,7,3.5,green
+Vivien Bergen,F,Biology,MOCK 1,8,0.5,green
+Karl Berry,F,Biology,MOCK 1,7,-0.5,red
+Zero Cage,M,Biology,MOCK 1,6,-1.5,red
+Jayne Neeson,M,English Lit.,MOCK 1,6,0.5,green
+Cameron Wray,M,English Lit.,MOCK 1,7,-2,red
+Ray Johansson,M,English Lit.,MOCK 1,7,-4,red
+Angela Hudson,M,English Lit.,MOCK 1,4,-1.5,red
+Mary Tandy,M,English Lit.,MOCK 1,6,0.5,green
+Jessica Bailey,F,English Lit.,MOCK 1,5,1,green
+Rip Winslet,M,English Lit.,MOCK 1,4,-1,red
+Kenneth Paltrow,M,English Lit.,MOCK 1,8,-2,red
+Michelle Mcconaughey,F,English Lit.,MOCK 1,9,3,green
+Adam Grant,M,English Lit.,MOCK 1,5,-2,red
+Sean Williams,M,English Lit.,MOCK 1,6,-0.5,red
+Nick Wahlberg,M,Biology,MOCK 1,6,-2,red
+Jennifer Davis,M,Biology,MOCK 1,6,0,blue
+Grace Mostel,M,Biology,MOCK 1,8,-0.5,red
+Matthew Johansson,M,Biology,MOCK 1,8,-0.5,red
+Cameron Streep,M,English Lit.,MOCK 1,5,-1.5,red
+Lucille Tracy,M,History,MOCK 1,6,-1,red
+Sandra Kilmer,M,English Lit.,MOCK 1,5,-1.5,red
+Kirsten Paltrow,F,English Lit.,MOCK 1,6,3,green
+Joe Swank,M,Film Studies,MOCK 1,3,-2.5,red
+Karl Berry,F,Film Studies,MOCK 1,6,3.5,green
+Alec Wayne,M,Film Studies,MOCK 1,3,1.5,green
+Parker Goldberg,M,Film Studies,MOCK 1,4,1,green
+Carmen Hunt,M,Film Studies,MOCK 1,5,1,green
+Christian Akroyd,M,Film Studies,MOCK 1,2,-0.5,red
+Kenneth Paltrow,M,Food Prep. & Nut.,MOCK 1,6,-2,red
+Ray Johansson,M,Film Studies,MOCK 1,2,-1.5,red
+Jessica Bailey,F,Film Studies,MOCK 1,3,1,green
+Nick Wahlberg,M,Chemistry,MOCK 1,6,-1.5,red
+Jennifer Davis,M,Chemistry,MOCK 1,8,1,green
+Grace Mostel,M,Chemistry,MOCK 1,4,0,blue
+Matthew Johansson,M,Chemistry,MOCK 1,9,0,blue
+Zero Cage,M,Chemistry,MOCK 1,9,-0.5,red
+Mary Tandy,M,Film Studies,MOCK 1,4,-0.5,red
+Gary Phoenix,M,Drama,MOCK 1,4,0.5,green
+Rip Winslet,M,Food Prep. & Nut.,MOCK 1,5,1,green
+Dustin Tautou,M,Food Prep. & Nut.,MOCK 1,4,0,blue
+Vivien Bergen,F,Food Prep. & Nut.,MOCK 1,7,1,green
+Cameron Streep,M,Food Prep. & Nut.,MOCK 1,5,-1.5,red
+Kevin Bloom,M,Food Prep. & Nut.,MOCK 1,4,-1,red
+Woody Hoffman,F,Food Prep. & Nut.,MOCK 1,4,1,green
+Sandra Peck,F,Food Prep. & Nut.,MOCK 1,9,2.5,green
+Sissy Sobieski,M,Food Prep. & Nut.,MOCK 1,6,0,blue
+Angela Hudson,M,Food Prep. & Nut.,MOCK 1,6,1.5,green
+Val Bolger,M,Food Prep. & Nut.,MOCK 1,5,0,blue
+Goldie Brody,M,Food Prep. & Nut.,MOCK 1,5,0,blue
+Kirk Jovovich,M,Food Prep. & Nut.,MOCK 1,3,-1,red
+Parker Goldberg,M,Food Prep. & Nut.,MOCK 1,6,1,green
+Frances Day-Lewis,F,Food Prep. & Nut.,MOCK 1,9,2.5,green
+Penelope Pinkett,M,Food Prep. & Nut.,MOCK 1,6,0,blue
+Christian Akroyd,M,Food Prep. & Nut.,MOCK 1,6,0.5,green
+Tom Mckellen,M,Food Prep. & Nut.,MOCK 1,5,-1,red
+Karl Berry,F,Chemistry,MOCK 1,7,0,blue
+Vivien Bergen,F,Chemistry,MOCK 1,8,1.5,green
+Dan Torn,M,Chemistry,MOCK 1,8,2,green
+Grace Mostel,M,English Lit.,MOCK 1,7,0,blue
+Matthew Johansson,M,English Lit.,MOCK 1,9,1,green
+Joe Swank,M,English Lit.,MOCK 1,7,-2,red
+Christian Gable,M,English Lit.,MOCK 1,6,-0.5,red
+Zero Cage,M,English Lit.,MOCK 1,5,-3,red
+Karl Berry,F,English Lit.,MOCK 1,8,0,blue
+Bette Nicholson,M,English Lit.,MOCK 1,6,-2,red
+Uma Wood,F,English Lit.,MOCK 1,5,0,blue
+Cuba Olivier,M,English Lit.,MOCK 1,4,-4,red
+Fred Costner,F,English Lit.,MOCK 1,6,-0.5,red
+Helen Voight,M,English Lit.,MOCK 1,5,-2,red
+Dan Torn,M,English Lit.,MOCK 1,7,0.5,green
+Bob Fawcett,F,English Lit.,MOCK 1,9,3,green
+Lucille Tracy,M,English Lit.,MOCK 1,8,1,green
+Vivien Bergen,F,English Lit.,MOCK 1,7,-0.5,red
+Johnny Lollobrigida,M,English Lit.,MOCK 1,6,-0.5,red
+Jennifer Davis,M,English Lit.,MOCK 1,7,0.5,green
+Nick Wahlberg,M,English Lit.,MOCK 1,5,-3.5,red
+Elvis Marx,M,Chemistry,MOCK 1,7,-1,red
+Sandra Peck,F,Chemistry,MOCK 1,8,2,green
+Tom Mckellen,M,Chemistry,MOCK 1,7,-0.5,red
+Jodie Degeneres,F,Chemistry,MOCK 1,8,-0.5,red
+Tom Miranda,M,Chemistry,MOCK 1,8,1,green
+Reese Kilmer,F,Chemistry,MOCK 1,6,-1.5,red
+Parker Goldberg,M,Chemistry,MOCK 1,6,2.5,green
+Julia Barrymore,F,Chemistry,MOCK 1,4,-1.5,red
+Frances Day-Lewis,F,Chemistry,MOCK 1,9,1.5,green
+Mena Temple,M,Chemistry,MOCK 1,6,-2,red
+Penelope Pinkett,M,Chemistry,MOCK 1,6,-1.5,red
+Fay Kilmer,F,Chemistry,MOCK 1,6,-0.5,red
+Dan Harris,F,Chemistry,MOCK 1,7,-1.5,red
+Michelle Mcconaughey,F,Chemistry,MOCK 1,6,0.5,green
+Sean Williams,M,Chemistry,MOCK 1,7,0,blue
+Elvis Marx,M,English Lit.,MOCK 1,6,-3,red
+Bob Fawcett,F,History,MOCK 1,6,3,green
+Jude Cruise,F,Combined Science,MOCK 1,2.5,0.5,green
+Uma Wood,F,History,MOCK 1,5,-1,red
+Mena Temple,M,Music,MOCK 1,3,-1.5,red
+Carmen Hunt,M,Music,MOCK 1,4,1,green
+Dan Torn,M,History,MOCK 1,9,1.5,green
+Johnny Cage,M,Music,MOCK 1,4,-1,red
+Audrey Olivier,M,Music,MOCK 1,3,1.5,green
+Dan Torn,M,Music,MOCK 1,7,2.5,green
+Helen Voight,M,Music,MOCK 1,2,-2,red
+Matthew Johansson,M,Music,MOCK 1,8,-1.5,red
+Grace Mostel,M,Music,MOCK 1,5,0,blue
+Bette Nicholson,M,Music,MOCK 1,7,2,green
+Mary Tandy,M,English Lang.,MOCK 1,5,0.5,green
+Adam Grant,M,PE,MOCK 1,6,0,blue
+Jude Cruise,F,Music,MOCK 1,2,0,blue
+Michelle Mcconaughey,F,PE,MOCK 1,8,3,green
+Nick Stallone,M,PE,MOCK 1,5,3.5,green
+Goldie Brody,M,PE,MOCK 1,6,2,green
+Tom Mckellen,M,PE,MOCK 1,5,1,green
+Val Bolger,M,PE,MOCK 1,4,2.5,green
+Judy Dean,M,PE,MOCK 1,3,-0.5,red
+Audrey Olivier,M,PE,MOCK 1,5,1.5,green
+Sissy Sobieski,M,PE,MOCK 1,5,0.5,green
+Kevin Bloom,M,PE,MOCK 1,2,1,green
+Cameron Streep,M,PE,MOCK 1,3,0.5,green
+Fred Costner,F,PE,MOCK 1,3,1,green
+Jessica Bailey,F,English Lang.,MOCK 1,5,1,green
+Rip Winslet,M,English Lang.,MOCK 1,5,-0.5,red
+Ray Johansson,M,PE,MOCK 1,5,-1,red
+Jessica Bailey,F,Music,MOCK 1,3,-1.5,red
+Rip Winslet,M,Music,MOCK 1,4,0,blue
+Jennifer Davis,M,Computer Science,MOCK 1,7,-0.5,red
+Henry Berry,F,English Lang.,MOCK 1,1,-0.5,red
+Christian Neeson,F,English Lang.,MOCK 1,6,0,blue
+Jayne Neeson,M,English Lang.,MOCK 1,5,0.5,green
+Cameron Wray,M,English Lang.,MOCK 1,4,-1,red
+Ray Johansson,M,English Lang.,MOCK 1,4,-3,red
+Angela Hudson,M,English Lang.,MOCK 1,3,-0.5,red
+Sean Williams,M,Computer Science,MOCK 1,9,-0.5,red
+Jessica Bailey,F,Computer Science,MOCK 1,3,0,blue
+Angela Hudson,M,Computer Science,MOCK 1,8,0.5,green
+Jayne Neeson,M,Computer Science,MOCK 1,7,0.5,green
+Christian Neeson,F,Computer Science,MOCK 1,4,-1,red
+Dustin Tautou,M,Computer Science,MOCK 1,4,-1,red
+Penelope Pinkett,M,Computer Science,MOCK 1,8,-1.5,red
+Mena Temple,M,Computer Science,MOCK 1,8,-3,red
+Carmen Hunt,M,Computer Science,MOCK 1,7,1,green
+Natalie Hopkins,M,Computer Science,MOCK 1,7,0,blue
+Anne Cronyn,M,Computer Science,MOCK 1,6,-2,red
+Johnny Cage,M,Computer Science,MOCK 1,6,-1.5,red
+Goldie Brody,M,Computer Science,MOCK 1,4,0.5,green
+Audrey Olivier,M,Computer Science,MOCK 1,5,-1,red
+Julia Mcqueen,M,Computer Science,MOCK 1,6,-2,red
+Rip Crawford,M,Computer Science,MOCK 1,8,-3,red
+Elvis Marx,M,Computer Science,MOCK 1,7,-1,red
+Lucille Tracy,M,Computer Science,MOCK 1,6,-1,red
+Vivien Bergen,F,Computer Science,MOCK 1,8,1,green
+Zero Cage,M,Computer Science,MOCK 1,8,0.5,green
+Joe Swank,M,Computer Science,MOCK 1,7,-0.5,red
+Kenneth Paltrow,M,English Lang.,MOCK 1,5,-2,red
+Dustin Tautou,M,English Lang.,MOCK 1,4,1.5,green
+Michelle Mcconaughey,F,English Lang.,MOCK 1,6,3,green
+Sean Williams,M,English Lang.,MOCK 1,4,-1.5,red
+Fay Kilmer,F,Spanish,MOCK 1,8,3,green
+Gary Phoenix,M,Spanish,MOCK 1,4,-2.5,red
+Anne Cronyn,M,Spanish,MOCK 1,7,-0.5,red
+Frances Day-Lewis,F,Spanish,MOCK 1,8,1,green
+Julia Barrymore,F,Spanish,MOCK 1,5,0.5,green
+Johnny Cage,M,Spanish,MOCK 1,4,-1.5,red
+Julia Mcqueen,M,Spanish,MOCK 1,8,2.5,green
+Sandra Kilmer,M,Spanish,MOCK 1,6,-1,red
+Kirsten Paltrow,F,Spanish,MOCK 1,7,1.5,green
+Karl Berry,F,Spanish,MOCK 1,8,1.5,green
+Bette Nicholson,M,Spanish,MOCK 1,3,-2.5,red
+Jennifer Davis,M,Spanish,MOCK 1,5,1,green
+Dan Harris,F,Spanish,MOCK 1,8,-1,red
+Nick Wahlberg,M,Spanish,MOCK 1,5,0,blue
+Alec Wayne,M,Drama,MOCK 1,2,-1.5,red
+Sandra Peck,F,Drama,MOCK 1,8,2,green
+Burt Dukakis,F,Drama,MOCK 1,3,-1,red
+Kirk Jovovich,M,Drama,MOCK 1,3,0,blue
+Sean Williams,M,Drama,MOCK 1,4,0.5,green
+Michelle Mcconaughey,F,Drama,MOCK 1,7,1,green
+Rip Winslet,M,Drama,MOCK 1,2,0,blue
+Cameron Wray,M,Drama,MOCK 1,7,-0.5,red
+Henry Berry,F,Drama,MOCK 1,3,-1.5,red
+Jude Cruise,F,Drama,MOCK 1,1,-2,red
+Mena Temple,M,Drama,MOCK 1,3,-2,red
+Carmen Hunt,M,Drama,MOCK 1,6,2,green
+Woody Hoffman,F,Drama,MOCK 1,3,1,green
+Ray Johansson,M,Spanish,MOCK 1,5,-0.5,red
+Bob Fawcett,F,Drama,MOCK 1,9,0.5,green
+Dan Torn,M,Drama,MOCK 1,9,2.5,green
+Sean Williams,M,Physics,MOCK 1,6,0,blue
+Michelle Mcconaughey,F,Physics,MOCK 1,8,-0.5,red
+Dan Harris,F,Physics,MOCK 1,8,0.5,green
+Fay Kilmer,F,Physics,MOCK 1,6,-0.5,red
+Penelope Pinkett,M,Physics,MOCK 1,7,0.5,green
+Mena Temple,M,Physics,MOCK 1,6,-2,red
+Frances Day-Lewis,F,Physics,MOCK 1,6,1.5,green
+Julia Barrymore,F,Physics,MOCK 1,4,-1.5,red
+Parker Goldberg,M,Physics,MOCK 1,6,2.5,green
+Reese Kilmer,F,Physics,MOCK 1,7,-0.5,red
+Tom Miranda,M,Physics,MOCK 1,8,1,green
+Tom Mckellen,M,Physics,MOCK 1,6,-0.5,red
+Sandra Peck,F,Physics,MOCK 1,8,2,green
+Elvis Marx,M,Physics,MOCK 1,5,-1.5,red
+Dan Torn,M,Physics,MOCK 1,5,2,green
+Vivien Bergen,F,Physics,MOCK 1,7,0.5,green
+Karl Berry,F,Physics,MOCK 1,8,0,blue
+Zero Cage,M,Physics,MOCK 1,8,-0.5,red
+Matthew Johansson,M,Physics,MOCK 1,7,-0.5,red
+Grace Mostel,M,Physics,MOCK 1,6,-1.5,red
+Jennifer Davis,M,Physics,MOCK 1,8,1,green
+Nick Wahlberg,M,Physics,MOCK 1,5,-1.5,red
+Joe Swank,M,Drama,MOCK 1,4,-0.5,red
+Christian Gable,M,Drama,MOCK 1,3,0,blue
+Karl Berry,F,Drama,MOCK 1,9,2.5,green
+Uma Wood,F,Drama,MOCK 1,3,1,green
+Helen Voight,M,Drama,MOCK 1,1,-1,red
+Adam Grant,M,English Lang.,MOCK 1,4,-1,red
+Christian Akroyd,M,English Lang.,MOCK 1,3,0.5,green
+Frances Day-Lewis,F,Music,MOCK 1,7,3.5,green
+Dan Harris,F,English Lang.,MOCK 1,8,1,green
+Frances Day-Lewis,F,Maths,MOCK 1,7,2,green
+Julia Barrymore,F,Maths,MOCK 1,5,-1,red
+Parker Goldberg,M,Maths,MOCK 1,4,2.5,green
+Reese Kilmer,F,Maths,MOCK 1,5,1,green
+Nick Stallone,M,Maths,MOCK 1,2,1.5,green
+Kirk Jovovich,M,Maths,MOCK 1,2,-2,red
+Tom Miranda,M,Maths,MOCK 1,8,-0.5,red
+Jodie Degeneres,F,Maths,MOCK 1,7,-1,red
+Johnny Cage,M,Maths,MOCK 1,3,-1.5,red
+Goldie Brody,M,Maths,MOCK 1,5,0,blue
+Tom Mckellen,M,Maths,MOCK 1,6,0,blue
+Val Bolger,M,Maths,MOCK 1,4,0,blue
+Burt Dukakis,F,Maths,MOCK 1,4,-1,red
+Judy Dean,M,Maths,MOCK 1,5,0.5,green
+Anne Cronyn,M,Maths,MOCK 1,4,-1,red
+Audrey Olivier,M,Maths,MOCK 1,6,1,green
+Tim Hackman,M,Maths,MOCK 1,2,-0.5,red
+Sissy Sobieski,M,Maths,MOCK 1,4,-1,red
+Sandra Peck,F,Maths,MOCK 1,8,2,green
+Jude Cruise,F,English Lang.,MOCK 1,3,0.5,green
+Alec Wayne,M,Maths,MOCK 1,5,0.5,green
+Woody Hoffman,F,Maths,MOCK 1,2,0,blue
+Julia Mcqueen,M,Maths,MOCK 1,5,-1,red
+Rip Crawford,M,Maths,MOCK 1,6,-2,red
+Cameron Streep,M,Maths,MOCK 1,5,2.5,green
+Sandra Kilmer,M,Maths,MOCK 1,2,-2.5,red
+Elvis Marx,M,Maths,MOCK 1,5,-2.5,red
+Kirsten Paltrow,F,Maths,MOCK 1,4,0.5,green
+Lucille Tracy,M,Maths,MOCK 1,6,0.5,green
+Bob Fawcett,F,Maths,MOCK 1,3,-2,red
+Milla Peck,F,Maths,MOCK 1,3,0.5,green
+Dan Torn,M,Maths,MOCK 1,7,0,blue
+Natalie Hopkins,M,Maths,MOCK 1,5,1,green
+Carmen Hunt,M,Maths,MOCK 1,6,1,green
+Zero Cage,M,History,MOCK 1,6,-2,red
+Joe Swank,M,History,MOCK 1,9,-0.5,red
+Matthew Johansson,M,History,MOCK 1,6,-1,red
+Grace Mostel,M,History,MOCK 1,3,1,green
+Uma Wood,F,Combined Science,MOCK 1,4.5,1.5,green
+Christian Gable,M,Combined Science,MOCK 1,5.5,-0.5,red
+Joe Swank,M,Combined Science,MOCK 1,4,-0.5,red
+Bette Nicholson,M,Combined Science,MOCK 1,4,-1,red
+Johnny Lollobrigida,M,Combined Science,MOCK 1,4,0,blue
+Ed Chase,M,Combined Science,MOCK 1,3,-1.5,red
+Sean Williams,M,Maths,MOCK 1,7,1,green
+Adam Grant,M,Maths,MOCK 1,4,-1,red
+Michelle Mcconaughey,F,Maths,MOCK 1,6,1,green
+Kenneth Paltrow,M,Maths,MOCK 1,5,-3.5,red
+Gary Phoenix,M,Maths,MOCK 1,3,-1.5,red
+Rip Winslet,M,Maths,MOCK 1,4,-0.5,red
+Mary Tandy,M,Maths,MOCK 1,6,-1,red
+Angela Hudson,M,Maths,MOCK 1,5,0.5,green
+Ray Johansson,M,Maths,MOCK 1,5,-1,red
+Cameron Wray,M,Maths,MOCK 1,5,-0.5,red
+Jayne Neeson,M,Maths,MOCK 1,4,-0.5,red
+Christian Neeson,F,Maths,MOCK 1,6,0,blue
+Henry Berry,F,Maths,MOCK 1,3,-1.5,red
+Dustin Tautou,M,Maths,MOCK 1,3,1,green
+Christian Akroyd,M,Maths,MOCK 1,3,-1.5,red
+Jude Cruise,F,Maths,MOCK 1,2,1,green
+Dan Harris,F,Maths,MOCK 1,6,-1.5,red
+Fay Kilmer,F,Maths,MOCK 1,4,-1.5,red
+Penelope Pinkett,M,Maths,MOCK 1,5,0.5,green
+Mena Temple,M,Maths,MOCK 1,7,0,blue
+Jessica Bailey,F,Maths,MOCK 1,4,1,green
+Helen Voight,M,Maths,MOCK 1,3,-0.5,red
+Mena Temple,M,Biology,MOCK 1,6,-2,red
+Johnny Lollobrigida,M,Maths,MOCK 1,3,-0.5,red
+Nick Stallone,M,English Lang.,MOCK 1,4,1,green
+Reese Kilmer,F,English Lang.,MOCK 1,2,-1,red
+Bette Nicholson,M,Maths,MOCK 1,2,-2.5,red
+Grace Mostel,M,Maths,MOCK 1,4,-1,red
+Matthew Johansson,M,Maths,MOCK 1,7,-0.5,red
+Joe Swank,M,Maths,MOCK 1,4,-0.5,red
+Christian Gable,M,Maths,MOCK 1,4,-2,red
+Zero Cage,M,Maths,MOCK 1,8,-0.5,red
+Karl Berry,F,Maths,MOCK 1,6,0,blue
+Uma Wood,F,Maths,MOCK 1,4,0.5,green
+Kirk Jovovich,M,English Lang.,MOCK 1,3,-2,red
+Cuba Olivier,M,Maths,MOCK 1,3,-2,red
+Fred Costner,F,Maths,MOCK 1,4,0,blue
+Vivien Bergen,F,Maths,MOCK 1,7,0.5,green
+Ed Chase,M,Maths,MOCK 1,3,0,blue
+Fay Kilmer,F,English Lang.,MOCK 1,7,-0.5,red
+Penelope Pinkett,M,English Lang.,MOCK 1,4,-1,red
+Mena Temple,M,English Lang.,MOCK 1,6,-2.5,red
+Carmen Hunt,M,English Lang.,MOCK 1,5,1,green
+Nick Wahlberg,M,Maths,MOCK 1,5,-4,red
+Gary Phoenix,M,English Lang.,MOCK 1,5,1.5,green
+Natalie Hopkins,M,English Lang.,MOCK 1,4,0,blue
+Anne Cronyn,M,English Lang.,MOCK 1,6,0,blue
+Frances Day-Lewis,F,English Lang.,MOCK 1,7,4,green
+Julia Barrymore,F,English Lang.,MOCK 1,6,0,blue
+Parker Goldberg,M,English Lang.,MOCK 1,5,1,green
+Jennifer Davis,M,Maths,MOCK 1,8,2.5,green
+Tom Miranda,M,English Lang.,MOCK 1,7,0.5,green
+Woody Hoffman,F,Drama,MOCK 2,3,1,green
+Alec Wayne,M,Combined Science,MOCK 2,5.5,-0.5,red
+Rip Crawford,M,Combined Science,MOCK 2,4.5,-1.5,red
+Johnny Lollobrigida,M,Combined Science,MOCK 2,4,0,blue
+Joe Swank,M,Combined Science,MOCK 2,4.5,-0.5,red
+Cuba Olivier,M,Combined Science,MOCK 2,4,-2.5,red
+Fred Costner,F,Combined Science,MOCK 2,4,0.5,green
+Helen Voight,M,Combined Science,MOCK 2,3,-1,red
+Sean Williams,M,Drama,MOCK 2,7,0.5,green
+Michelle Mcconaughey,F,Drama,MOCK 2,8,1,green
+Kevin Bloom,M,Combined Science,MOCK 2,3,-0.5,red
+Rip Winslet,M,Drama,MOCK 2,3,0,blue
+Cameron Wray,M,Drama,MOCK 2,6,-0.5,red
+Alec Wayne,M,Drama,MOCK 2,3,-1.5,red
+Henry Berry,F,Drama,MOCK 2,6,-1.5,red
+Mena Temple,M,Drama,MOCK 2,6,-2,red
+Carmen Hunt,M,Drama,MOCK 2,7,2,green
+Sandra Kilmer,M,Combined Science,MOCK 2,4,-0.5,red
+Gary Phoenix,M,Drama,MOCK 2,5,0.5,green
+Reese Kilmer,F,Drama,MOCK 2,2,-2,red
+Kenneth Paltrow,M,English Lang.,MOCK 2,6,-2,red
+Sandra Peck,F,Drama,MOCK 2,8,2,green
+Michelle Mcconaughey,F,English Lang.,MOCK 2,8,3,green
+Adam Grant,M,English Lang.,MOCK 2,4,-1,red
+Sean Williams,M,English Lang.,MOCK 2,6,-1.5,red
+Dan Torn,M,Drama,MOCK 2,9,2.5,green
+Bob Fawcett,F,Drama,MOCK 2,5,0.5,green
+Jude Cruise,F,Drama,MOCK 2,2,-2,red
+Burt Dukakis,F,Drama,MOCK 2,4,-1,red
+Tom Mckellen,M,Chemistry,MOCK 2,6,-0.5,red
+Sissy Sobieski,M,Combined Science,MOCK 2,5,1.5,green
+Michelle Mcconaughey,F,Biology,MOCK 2,7,0.5,green
+Sean Williams,M,Biology,MOCK 2,7,0,blue
+Judy Dean,M,Combined Science,MOCK 2,5.5,0,blue
+Burt Dukakis,F,Combined Science,MOCK 2,4,-1,red
+Johnny Cage,M,Combined Science,MOCK 2,4,-0.5,red
+Kirk Jovovich,M,Combined Science,MOCK 2,1.5,-0.5,red
+Dan Harris,F,Biology,MOCK 2,7,-1.5,red
+Nick Stallone,M,Combined Science,MOCK 2,3.5,2,green
+Jude Cruise,F,Combined Science,MOCK 2,2.5,0.5,green
+Dustin Tautou,M,Combined Science,MOCK 2,3.5,0.5,green
+Henry Berry,F,Combined Science,MOCK 2,3.5,-0.5,red
+Jayne Neeson,M,Combined Science,MOCK 2,4,0.5,green
+Rip Winslet,M,Combined Science,MOCK 2,3,0.5,green
+Adam Grant,M,Combined Science,MOCK 2,4.5,0.5,green
+Gary Phoenix,M,Combined Science,MOCK 2,4.5,0.5,green
+Ed Chase,M,Combined Science,MOCK 2,2.5,-1.5,red
+Fay Kilmer,F,Biology,MOCK 2,5,-1,red
+Mena Temple,M,Biology,MOCK 2,6,-2,red
+Tim Hackman,M,Combined Science,MOCK 2,3,-1,red
+Milla Peck,F,Combined Science,MOCK 2,1.5,0.5,green
+Karl Berry,F,Biology,MOCK 2,7,-0.5,red
+Vivien Bergen,F,Biology,MOCK 2,8,0.5,green
+Dan Torn,M,Biology,MOCK 2,9,2,green
+Elvis Marx,M,Biology,MOCK 2,6,0.5,green
+Penelope Pinkett,M,Biology,MOCK 2,9,-0.5,red
+Sandra Peck,F,Biology,MOCK 2,9,1,green
+Jodie Degeneres,F,Biology,MOCK 2,6,-2,red
+Tom Miranda,M,Biology,MOCK 2,7,0,blue
+Reese Kilmer,F,Biology,MOCK 2,5,-1.5,red
+Parker Goldberg,M,Biology,MOCK 2,8,3.5,green
+Julia Barrymore,F,Biology,MOCK 2,5,-0.5,red
+Frances Day-Lewis,F,Biology,MOCK 2,7,1.5,green
+Tom Mckellen,M,Biology,MOCK 2,5,-0.5,red
+Woody Hoffman,F,Biology,MOCK 2,0,-1.5,red
+Jayne Neeson,M,Computer Science,MOCK 2,4,0.5,green
+Jessica Bailey,F,Computer Science,MOCK 2,2,0,blue
+Vivien Bergen,F,Computer Science,MOCK 2,8,1,green
+Zero Cage,M,Computer Science,MOCK 2,8,0.5,green
+Joe Swank,M,Computer Science,MOCK 2,4,-0.5,red
+Jennifer Davis,M,Computer Science,MOCK 2,6,-0.5,red
+Dan Torn,M,Chemistry,MOCK 2,7,2,green
+Vivien Bergen,F,Chemistry,MOCK 2,7,1.5,green
+Mary Tandy,M,English Lang.,MOCK 2,7,0.5,green
+Cuba Olivier,M,Computer Science,MOCK 2,3,-3.5,red
+Angela Hudson,M,English Lang.,MOCK 2,5,-0.5,red
+Cameron Wray,M,English Lang.,MOCK 2,5,-1,red
+Jayne Neeson,M,English Lang.,MOCK 2,6,0.5,green
+Christian Neeson,F,English Lang.,MOCK 2,7,0,blue
+Henry Berry,F,English Lang.,MOCK 2,4,-0.5,red
+Dustin Tautou,M,English Lang.,MOCK 2,5,1.5,green
+Christian Akroyd,M,English Lang.,MOCK 2,1,0.5,green
+Jude Cruise,F,English Lang.,MOCK 2,3,0.5,green
+Ray Johansson,M,English Lang.,MOCK 2,4,-3,red
+Lucille Tracy,M,Computer Science,MOCK 2,4,-1,red
+Elvis Marx,M,Computer Science,MOCK 2,6,-1,red
+Rip Crawford,M,Computer Science,MOCK 2,3,-3,red
+Jodie Degeneres,F,Chemistry,MOCK 2,9,-0.5,red
+Tom Miranda,M,Chemistry,MOCK 2,8,1,green
+Reese Kilmer,F,Chemistry,MOCK 2,5,-1.5,red
+Parker Goldberg,M,Chemistry,MOCK 2,6,2.5,green
+Julia Barrymore,F,Chemistry,MOCK 2,4,-1.5,red
+Frances Day-Lewis,F,Chemistry,MOCK 2,9,1.5,green
+Mena Temple,M,Chemistry,MOCK 2,6,-2,red
+Penelope Pinkett,M,Chemistry,MOCK 2,5,-1.5,red
+Fay Kilmer,F,Chemistry,MOCK 2,6,-0.5,red
+Dan Harris,F,Chemistry,MOCK 2,6,-1.5,red
+Michelle Mcconaughey,F,Chemistry,MOCK 2,6,0.5,green
+Sean Williams,M,Chemistry,MOCK 2,6,0,blue
+Elvis Marx,M,Chemistry,MOCK 2,5,-1,red
+Johnny Cage,M,Computer Science,MOCK 2,3,-1.5,red
+Goldie Brody,M,Computer Science,MOCK 2,5,0.5,green
+Audrey Olivier,M,Computer Science,MOCK 2,4,-1,red
+Julia Mcqueen,M,Computer Science,MOCK 2,4,-2,red
+Dan Harris,F,English Lang.,MOCK 2,9,1,green
+Fay Kilmer,F,English Lang.,MOCK 2,5,-0.5,red
+Penelope Pinkett,M,English Lang.,MOCK 2,6,-1,red
+Mena Temple,M,English Lang.,MOCK 2,7,-2.5,red
+Jodie Degeneres,F,Computer Science,MOCK 2,7,0,blue
+Anne Cronyn,M,Computer Science,MOCK 2,3,-2,red
+Natalie Hopkins,M,Computer Science,MOCK 2,4,0,blue
+Jennifer Davis,M,Spanish,MOCK 2,5,1,green
+Johnny Lollobrigida,M,Drama,MOCK 2,5,-0.5,red
+Joe Swank,M,Drama,MOCK 2,6,-0.5,red
+Christian Gable,M,Drama,MOCK 2,6,0,blue
+Karl Berry,F,Drama,MOCK 2,9,2.5,green
+Uma Wood,F,Drama,MOCK 2,4,1,green
+Helen Voight,M,Drama,MOCK 2,3,-1,red
+Carmen Hunt,M,Computer Science,MOCK 2,4,1,green
+Mena Temple,M,Computer Science,MOCK 2,7,-3,red
+Penelope Pinkett,M,Computer Science,MOCK 2,5,-1.5,red
+Dustin Tautou,M,Computer Science,MOCK 2,2,-1,red
+Christian Neeson,F,Computer Science,MOCK 2,5,-1,red
+Sandra Peck,F,Chemistry,MOCK 2,8,2,green
+Angela Hudson,M,Computer Science,MOCK 2,5,0.5,green
+Rip Winslet,M,English Lang.,MOCK 2,5,-0.5,red
+Sean Williams,M,Computer Science,MOCK 2,8,-0.5,red
+Jessica Bailey,F,English Lang.,MOCK 2,5,1,green
+Jennifer Davis,M,Chemistry,MOCK 2,6,1,green
+Carmen Hunt,M,English Lang.,MOCK 2,7,1,green
+Gary Phoenix,M,English Lang.,MOCK 2,5,1.5,green
+Natalie Hopkins,M,English Lang.,MOCK 2,4,0,blue
+Karl Berry,F,Chemistry,MOCK 2,7,0,blue
+Frances Day-Lewis,F,English Lang.,MOCK 2,9,4,green
+Julia Barrymore,F,English Lang.,MOCK 2,8,0,blue
+Parker Goldberg,M,English Lang.,MOCK 2,6,1,green
+Reese Kilmer,F,English Lang.,MOCK 2,3,-1,red
+Nick Stallone,M,English Lang.,MOCK 2,4,1,green
+Nick Wahlberg,M,Biology,MOCK 2,6,-2,red
+Jennifer Davis,M,Biology,MOCK 2,6,0,blue
+Grace Mostel,M,Biology,MOCK 2,7,-0.5,red
+Matthew Johansson,M,Biology,MOCK 2,7,-0.5,red
+Zero Cage,M,Biology,MOCK 2,6,-1.5,red
+Zero Cage,M,Chemistry,MOCK 2,7,-0.5,red
+Matthew Johansson,M,Chemistry,MOCK 2,7,0,blue
+Grace Mostel,M,Chemistry,MOCK 2,6,0,blue
+Nick Wahlberg,M,Chemistry,MOCK 2,5,-1.5,red
+Anne Cronyn,M,English Lang.,MOCK 2,6,0,blue
+Nick Wahlberg,M,Spanish,MOCK 2,6,0,blue
+Tom Miranda,M,English Lang.,MOCK 2,7,0.5,green
+Frances Day-Lewis,F,Maths,MOCK 2,6,2,green
+Anne Cronyn,M,Maths,MOCK 2,4,-1,red
+Natalie Hopkins,M,Maths,MOCK 2,5,1,green
+Carmen Hunt,M,Maths,MOCK 2,6,1,green
+Mena Temple,M,Maths,MOCK 2,7,0,blue
+Fay Kilmer,F,Maths,MOCK 2,4,-1.5,red
+Dan Harris,F,Maths,MOCK 2,5,-1.5,red
+Jude Cruise,F,Maths,MOCK 2,2,1,green
+Christian Akroyd,M,Maths,MOCK 2,3,-1.5,red
+Dustin Tautou,M,Maths,MOCK 2,3,1,green
+Henry Berry,F,Maths,MOCK 2,3,-1.5,red
+Christian Neeson,F,Maths,MOCK 2,5,0,blue
+Jayne Neeson,M,Maths,MOCK 2,3,-0.5,red
+Cameron Wray,M,Maths,MOCK 2,5,-0.5,red
+Ray Johansson,M,Maths,MOCK 2,4,-1,red
+Angela Hudson,M,Maths,MOCK 2,4,0.5,green
+Mary Tandy,M,Maths,MOCK 2,6,-1,red
+Julia Barrymore,F,Maths,MOCK 2,4,-1,red
+Jessica Bailey,F,Maths,MOCK 2,4,1,green
+Parker Goldberg,M,Maths,MOCK 2,5,2.5,green
+Nick Stallone,M,Maths,MOCK 2,3,1.5,green
+Julia Mcqueen,M,Maths,MOCK 2,4,-1,red
+Woody Hoffman,F,Maths,MOCK 2,2,0,blue
+Alec Wayne,M,Maths,MOCK 2,3,0.5,green
+Sandra Peck,F,Maths,MOCK 2,8,2,green
+Sissy Sobieski,M,Maths,MOCK 2,3,-1,red
+Tim Hackman,M,Maths,MOCK 2,3,-0.5,red
+Milla Peck,F,Maths,MOCK 2,3,0.5,green
+Audrey Olivier,M,Maths,MOCK 2,5,1,green
+Judy Dean,M,Maths,MOCK 2,4,0.5,green
+Burt Dukakis,F,Maths,MOCK 2,3,-1,red
+Val Bolger,M,Maths,MOCK 2,5,0,blue
+Tom Mckellen,M,Maths,MOCK 2,5,0,blue
+Goldie Brody,M,Maths,MOCK 2,5,0,blue
+Johnny Cage,M,Maths,MOCK 2,3,-1.5,red
+Jodie Degeneres,F,Maths,MOCK 2,7,-1,red
+Tom Miranda,M,Maths,MOCK 2,7,-0.5,red
+Kirk Jovovich,M,Maths,MOCK 2,2,-2,red
+Reese Kilmer,F,Maths,MOCK 2,6,1,green
+Rip Winslet,M,Maths,MOCK 2,3,-0.5,red
+Kenneth Paltrow,M,Maths,MOCK 2,4,-3.5,red
+Michelle Mcconaughey,F,Maths,MOCK 2,5,1,green
+Mary Tandy,M,History,MOCK 2,8,1.5,green
+Nick Wahlberg,M,Geography,MOCK 2,6,-1.5,red
+Jennifer Davis,M,Geography,MOCK 2,5,0.5,green
+Christian Gable,M,Geography,MOCK 2,4,-1.5,red
+Zero Cage,M,Geography,MOCK 2,6,-2.5,red
+Karl Berry,F,Geography,MOCK 2,7,1,green
+Cuba Olivier,M,Geography,MOCK 2,4,-3,red
+Lucille Tracy,M,Geography,MOCK 2,6,0,blue
+Kirsten Paltrow,F,Geography,MOCK 2,6,2.5,green
+Elvis Marx,M,Geography,MOCK 2,6,-1,red
+Sandra Kilmer,M,Geography,MOCK 2,5,-1.5,red
+Cameron Streep,M,Geography,MOCK 2,6,0.5,green
+Kevin Bloom,M,Geography,MOCK 2,3,-0.5,red
+Rip Crawford,M,Geography,MOCK 2,4,-5,red
+Julia Mcqueen,M,Geography,MOCK 2,6,-1,red
+Woody Hoffman,F,Geography,MOCK 2,3,-0.5,red
+Sandra Peck,F,Geography,MOCK 2,8,1.5,green
+Cameron Wray,M,History,MOCK 2,5,-1,red
+Henry Berry,F,History,MOCK 2,4,-1.5,red
+Dan Harris,F,History,MOCK 2,8,-0.5,red
+Penelope Pinkett,M,History,MOCK 2,6,-0.5,red
+Adam Grant,M,Maths,MOCK 2,4,-1,red
+Sean Williams,M,Maths,MOCK 2,6,1,green
+Grace Mostel,M,History,MOCK 2,5,1,green
+Matthew Johansson,M,History,MOCK 2,5,-1,red
+Joe Swank,M,History,MOCK 2,5,-0.5,red
+Zero Cage,M,History,MOCK 2,6,-2,red
+Uma Wood,F,History,MOCK 2,2,-1,red
+Dan Torn,M,History,MOCK 2,9,1.5,green
+Rip Crawford,M,Maths,MOCK 2,3,-2,red
+Bob Fawcett,F,History,MOCK 2,6,3,green
+Elvis Marx,M,History,MOCK 2,5,-2,red
+Cameron Streep,M,History,MOCK 2,6,-1.5,red
+Kevin Bloom,M,History,MOCK 2,2,-0.5,red
+Alec Wayne,M,History,MOCK 2,8,-0.5,red
+Johnny Cage,M,History,MOCK 2,3,-0.5,red
+Tom Miranda,M,History,MOCK 2,8,-1,red
+Julia Barrymore,F,History,MOCK 2,4,-2,red
+Gary Phoenix,M,History,MOCK 2,6,1.5,green
+Lucille Tracy,M,History,MOCK 2,5,-1,red
+Kevin Bloom,M,Maths,MOCK 2,2,-1.5,red
+Cameron Streep,M,Maths,MOCK 2,6,2.5,green
+Sandra Kilmer,M,Maths,MOCK 2,3,-2.5,red
+Sandra Peck,F,Physics,MOCK 2,8,2,green
+Tom Mckellen,M,Physics,MOCK 2,6,-0.5,red
+Jodie Degeneres,F,Physics,MOCK 2,8,-1,red
+Tom Miranda,M,Physics,MOCK 2,7,1,green
+Reese Kilmer,F,Physics,MOCK 2,6,-0.5,red
+Parker Goldberg,M,Physics,MOCK 2,8,2.5,green
+Julia Barrymore,F,Physics,MOCK 2,5,-1.5,red
+Frances Day-Lewis,F,Physics,MOCK 2,9,1.5,green
+Mena Temple,M,Physics,MOCK 2,6,-2,red
+Penelope Pinkett,M,Physics,MOCK 2,7,0.5,green
+Fay Kilmer,F,Physics,MOCK 2,6,-0.5,red
+Dan Harris,F,Physics,MOCK 2,5,0.5,green
+Michelle Mcconaughey,F,Physics,MOCK 2,6,-0.5,red
+Sean Williams,M,Physics,MOCK 2,5,0,blue
+Fred Costner,F,PE,MOCK 2,2,1,green
+Cameron Streep,M,PE,MOCK 2,3,0.5,green
+Kevin Bloom,M,PE,MOCK 2,1,1,green
+Elvis Marx,M,Physics,MOCK 2,6,-1.5,red
+Dan Torn,M,Physics,MOCK 2,8,2,green
+Vivien Bergen,F,Physics,MOCK 2,6,0.5,green
+Karl Berry,F,Physics,MOCK 2,7,0,blue
+Bette Nicholson,M,Spanish,MOCK 2,0,-2.5,red
+Karl Berry,F,Spanish,MOCK 2,7,1.5,green
+Kirsten Paltrow,F,Spanish,MOCK 2,6,1.5,green
+Sandra Kilmer,M,Spanish,MOCK 2,6,-1,red
+Julia Mcqueen,M,Spanish,MOCK 2,8,2.5,green
+Johnny Cage,M,Spanish,MOCK 2,4,-1.5,red
+Julia Barrymore,F,Spanish,MOCK 2,5,0.5,green
+Frances Day-Lewis,F,Spanish,MOCK 2,7,1,green
+Sissy Sobieski,M,PE,MOCK 2,2,0.5,green
+Anne Cronyn,M,Spanish,MOCK 2,5,-0.5,red
+Fay Kilmer,F,Spanish,MOCK 2,7,3,green
+Dan Harris,F,Spanish,MOCK 2,7,-1,red
+Ray Johansson,M,Spanish,MOCK 2,5,-0.5,red
+Nick Wahlberg,M,Physics,MOCK 2,7,-1.5,red
+Jennifer Davis,M,Physics,MOCK 2,6,1,green
+Grace Mostel,M,Physics,MOCK 2,6,-1.5,red
+Matthew Johansson,M,Physics,MOCK 2,8,-0.5,red
+Zero Cage,M,Physics,MOCK 2,6,-0.5,red
+Gary Phoenix,M,Spanish,MOCK 2,3,-2.5,red
+Tim Hackman,M,Geography,MOCK 2,3,-2,red
+Audrey Olivier,M,PE,MOCK 2,3,1.5,green
+Val Bolger,M,PE,MOCK 2,4,2.5,green
+Bette Nicholson,M,Maths,MOCK 2,2,-2.5,red
+Grace Mostel,M,Maths,MOCK 2,3,-1,red
+Matthew Johansson,M,Maths,MOCK 2,6,-0.5,red
+Joe Swank,M,Maths,MOCK 2,4,-0.5,red
+Christian Gable,M,Maths,MOCK 2,4,-2,red
+Zero Cage,M,Maths,MOCK 2,7,-0.5,red
+Karl Berry,F,Maths,MOCK 2,6,0,blue
+Uma Wood,F,Maths,MOCK 2,4,0.5,green
+Vivien Bergen,F,Maths,MOCK 2,6,0.5,green
+Cuba Olivier,M,Maths,MOCK 2,2,-2,red
+Fred Costner,F,Maths,MOCK 2,3,0,blue
+Helen Voight,M,Maths,MOCK 2,3,-0.5,red
+Dan Torn,M,Maths,MOCK 2,6,0,blue
+Bob Fawcett,F,Maths,MOCK 2,3,-2,red
+Lucille Tracy,M,Maths,MOCK 2,5,0.5,green
+Kirsten Paltrow,F,Maths,MOCK 2,5,0.5,green
+Elvis Marx,M,Maths,MOCK 2,4,-2.5,red
+Johnny Lollobrigida,M,Maths,MOCK 2,3,-0.5,red
+Jennifer Davis,M,Maths,MOCK 2,8,2.5,green
+Nick Wahlberg,M,Maths,MOCK 2,4,-4,red
+Rip Winslet,M,Music,MOCK 2,6,0,blue
+Tom Mckellen,M,PE,MOCK 2,4,1,green
+Goldie Brody,M,PE,MOCK 2,5,2,green
+Nick Stallone,M,PE,MOCK 2,3,3.5,green
+Ray Johansson,M,PE,MOCK 2,6,-1,red
+Michelle Mcconaughey,F,PE,MOCK 2,9,3,green
+Adam Grant,M,PE,MOCK 2,3,0,blue
+Bette Nicholson,M,Music,MOCK 2,6,2,green
+Grace Mostel,M,Music,MOCK 2,6,0,blue
+Judy Dean,M,PE,MOCK 2,2,-0.5,red
+Matthew Johansson,M,Music,MOCK 2,5,-1.5,red
+Dan Torn,M,Music,MOCK 2,8,2.5,green
+Audrey Olivier,M,Music,MOCK 2,7,1.5,green
+Johnny Cage,M,Music,MOCK 2,6,-1,red
+Tom Miranda,M,Music,MOCK 2,6,0.5,green
+Frances Day-Lewis,F,Music,MOCK 2,8,3.5,green
+Carmen Hunt,M,Music,MOCK 2,6,1,green
+Mena Temple,M,Music,MOCK 2,6,-1.5,red
+Jude Cruise,F,Music,MOCK 2,1,0,blue
+Helen Voight,M,Music,MOCK 2,4,-2,red
+Kirk Jovovich,M,English Lang.,MOCK 2,3,-2,red
+Judy Dean,M,Geography,MOCK 2,4,-1.5,red
+Tom Mckellen,M,Geography,MOCK 2,6,-1,red
+Julia Barrymore,F,English Lit.,MOCK 2,6,-2,red
+Frances Day-Lewis,F,English Lit.,MOCK 2,8,2.5,green
+Anne Cronyn,M,English Lit.,MOCK 2,5,-2,red
+Natalie Hopkins,M,English Lit.,MOCK 2,4,-0.5,red
+Carmen Hunt,M,English Lit.,MOCK 2,6,0,blue
+Mena Temple,M,English Lit.,MOCK 2,6,-3.5,red
+Penelope Pinkett,M,English Lit.,MOCK 2,5,-1.5,red
+Fay Kilmer,F,English Lit.,MOCK 2,5,0.5,green
+Dan Harris,F,English Lit.,MOCK 2,8,0,blue
+Jude Cruise,F,English Lit.,MOCK 2,2,-0.5,red
+Christian Akroyd,M,English Lit.,MOCK 2,1,-2.5,red
+Dustin Tautou,M,English Lit.,MOCK 2,3,0,blue
+Henry Berry,F,English Lit.,MOCK 2,4,-1.5,red
+Christian Neeson,F,English Lit.,MOCK 2,6,-1,red
+Jayne Neeson,M,English Lit.,MOCK 2,5,0.5,green
+Cameron Wray,M,English Lit.,MOCK 2,7,-2,red
+Ray Johansson,M,English Lit.,MOCK 2,3,-4,red
+Parker Goldberg,M,English Lit.,MOCK 2,4,1,green
+Angela Hudson,M,English Lit.,MOCK 2,3,-1.5,red
+Reese Kilmer,F,English Lit.,MOCK 2,4,-2,red
+Kirk Jovovich,M,English Lit.,MOCK 2,3,-2,red
+Kevin Bloom,M,English Lit.,MOCK 2,3,-1,red
+Rip Crawford,M,English Lit.,MOCK 2,2,-5,red
+Julia Mcqueen,M,English Lit.,MOCK 2,3,-2,red
+Woody Hoffman,F,English Lit.,MOCK 2,4,0,blue
+Alec Wayne,M,English Lit.,MOCK 2,5,-1,red
+Sandra Peck,F,English Lit.,MOCK 2,8,1.5,green
+Sissy Sobieski,M,English Lit.,MOCK 2,4,0,blue
+Tim Hackman,M,English Lit.,MOCK 2,3,1,green
+Milla Peck,F,English Lit.,MOCK 2,2,-1,red
+Audrey Olivier,M,English Lit.,MOCK 2,4,0.5,green
+Judy Dean,M,English Lit.,MOCK 2,3,-0.5,red
+Burt Dukakis,F,English Lit.,MOCK 2,5,-1,red
+Val Bolger,M,English Lit.,MOCK 2,3,-1,red
+Tom Mckellen,M,English Lit.,MOCK 2,3,-3,red
+Goldie Brody,M,English Lit.,MOCK 2,6,-1,red
+Johnny Cage,M,English Lit.,MOCK 2,5,-2,red
+Tom Miranda,M,English Lit.,MOCK 2,7,1,green
+Nick Stallone,M,English Lit.,MOCK 2,3,-1.5,red
+Mary Tandy,M,English Lit.,MOCK 2,6,0.5,green
+Jessica Bailey,F,English Lit.,MOCK 2,4,1,green
+Rip Winslet,M,English Lit.,MOCK 2,3,-1,red
+Sandra Kilmer,M,English Lang.,MOCK 2,5,-0.5,red
+Cameron Streep,M,English Lang.,MOCK 2,5,-0.5,red
+Kevin Bloom,M,English Lang.,MOCK 2,3,0,blue
+Rip Crawford,M,English Lang.,MOCK 2,4,-1.5,red
+Julia Mcqueen,M,English Lang.,MOCK 2,4,-1,red
+Woody Hoffman,F,English Lang.,MOCK 2,3,0,blue
+Alec Wayne,M,English Lang.,MOCK 2,6,0.5,green
+Sandra Peck,F,English Lang.,MOCK 2,9,1.5,green
+Sissy Sobieski,M,English Lang.,MOCK 2,4,1,green
+Tim Hackman,M,English Lang.,MOCK 2,3,-2,red
+Milla Peck,F,English Lang.,MOCK 2,2,0,blue
+Judy Dean,M,English Lang.,MOCK 2,3,-0.5,red
+Burt Dukakis,F,English Lang.,MOCK 2,4,-2,red
+Val Bolger,M,English Lang.,MOCK 2,4,0,blue
+Tom Mckellen,M,English Lang.,MOCK 2,4,-3,red
+Goldie Brody,M,English Lang.,MOCK 2,6,0.5,green
+Johnny Cage,M,English Lang.,MOCK 2,6,-0.5,red
+Elvis Marx,M,English Lang.,MOCK 2,4,-2,red
+Kirsten Paltrow,F,English Lang.,MOCK 2,7,2,green
+Lucille Tracy,M,English Lang.,MOCK 2,6,2,green
+Bob Fawcett,F,English Lang.,MOCK 2,2,2,green
+Kenneth Paltrow,M,English Lit.,MOCK 2,5,-2,red
+Michelle Mcconaughey,F,English Lit.,MOCK 2,7,3,green
+Adam Grant,M,English Lit.,MOCK 2,3,-2,red
+Sean Williams,M,English Lit.,MOCK 2,5,-0.5,red
+Nick Wahlberg,M,English Lang.,MOCK 2,4,-1.5,red
+Jennifer Davis,M,English Lang.,MOCK 2,6,-1.5,red
+Johnny Lollobrigida,M,English Lang.,MOCK 2,4,-0.5,red
+Grace Mostel,M,English Lang.,MOCK 2,8,1,green
+Sandra Kilmer,M,English Lit.,MOCK 2,4,-1.5,red
+Matthew Johansson,M,English Lang.,MOCK 2,9,1,green
+Christian Gable,M,English Lang.,MOCK 2,6,-1.5,red
+Zero Cage,M,English Lang.,MOCK 2,6,-1,red
+Karl Berry,F,English Lang.,MOCK 2,7,1,green
+Vivien Bergen,F,English Lang.,MOCK 2,5,0,blue
+Cuba Olivier,M,English Lang.,MOCK 2,3,-2.5,red
+Fred Costner,F,English Lang.,MOCK 2,4,-0.5,red
+Helen Voight,M,English Lang.,MOCK 2,4,-1,red
+Dan Torn,M,English Lang.,MOCK 2,7,1.5,green
+Joe Swank,M,English Lang.,MOCK 2,5,-1.5,red
+Elvis Marx,M,English Lit.,MOCK 2,4,-3,red
+Kirsten Paltrow,F,English Lit.,MOCK 2,6,3,green
+Lucille Tracy,M,English Lit.,MOCK 2,5,1,green
+Adam Grant,M,Geography,MOCK 2,5,-1,red
+Sean Williams,M,Geography,MOCK 2,7,-0.5,red
+Nick Wahlberg,M,French,MOCK 2,0,-1,red
+Kirsten Paltrow,F,French,MOCK 2,5,2.5,green
+Sandra Kilmer,M,French,MOCK 2,5,0,blue
+Sandra Peck,F,French,MOCK 2,6,1,green
+Sissy Sobieski,M,French,MOCK 2,0,0.5,green
+Fay Kilmer,F,French,MOCK 2,7,3,green
+Jayne Neeson,M,French,MOCK 2,4,-1,red
+Ray Johansson,M,French,MOCK 2,5,0.5,green
+Mary Tandy,M,French,MOCK 2,4,-0.5,red
+Adam Grant,M,French,MOCK 2,3,-0.5,red
+Nick Wahlberg,M,Food Prep. & Nut.,MOCK 2,6,-0.5,red
+Ed Chase,M,Food Prep. & Nut.,MOCK 2,4,-1.5,red
+Johnny Lollobrigida,M,Food Prep. & Nut.,MOCK 2,6,-1.5,red
+Christian Gable,M,Food Prep. & Nut.,MOCK 2,6,-0.5,red
+Vivien Bergen,F,Food Prep. & Nut.,MOCK 2,7,1,green
+Michelle Mcconaughey,F,Geography,MOCK 2,9,3,green
+Kenneth Paltrow,M,Geography,MOCK 2,6,-1.5,red
+Rip Winslet,M,Geography,MOCK 2,3,0.5,green
+Mary Tandy,M,Geography,MOCK 2,6,1,green
+Jodie Degeneres,F,Geography,MOCK 2,5,-2,red
+Tom Miranda,M,Geography,MOCK 2,8,-1,red
+Nick Stallone,M,Geography,MOCK 2,4,2.5,green
+Reese Kilmer,F,Geography,MOCK 2,3,-2,red
+Parker Goldberg,M,Geography,MOCK 2,6,2,green
+Julia Barrymore,F,Geography,MOCK 2,5,1,green
+Frances Day-Lewis,F,Geography,MOCK 2,9,3,green
+Anne Cronyn,M,Geography,MOCK 2,5,-1,red
+Cameron Streep,M,Food Prep. & Nut.,MOCK 2,3,-1.5,red
+Natalie Hopkins,M,Geography,MOCK 2,5,0,blue
+Penelope Pinkett,M,Geography,MOCK 2,7,0.5,green
+Fay Kilmer,F,Geography,MOCK 2,7,-2.5,red
+Dan Harris,F,Geography,MOCK 2,8,0.5,green
+Dustin Tautou,M,Geography,MOCK 2,3,0.5,green
+Henry Berry,F,Geography,MOCK 2,3,-1.5,red
+Jayne Neeson,M,Geography,MOCK 2,5,0.5,green
+Cameron Wray,M,Geography,MOCK 2,8,-1,red
+Angela Hudson,M,Geography,MOCK 2,5,0.5,green
+Gary Phoenix,M,Geography,MOCK 2,7,0.5,green
+Burt Dukakis,F,Geography,MOCK 2,6,-1,red
+Kevin Bloom,M,Food Prep. & Nut.,MOCK 2,5,-1,red
+Sandra Peck,F,Food Prep. & Nut.,MOCK 2,8,2.5,green
+Jessica Bailey,F,Film Studies,MOCK 2,2,1,green
+Nick Wahlberg,M,English Lit.,MOCK 2,4,-3.5,red
+Jennifer Davis,M,English Lit.,MOCK 2,6,0.5,green
+Johnny Lollobrigida,M,English Lit.,MOCK 2,3,-0.5,red
+Bette Nicholson,M,English Lit.,MOCK 2,4,-2,red
+Grace Mostel,M,English Lit.,MOCK 2,8,0,blue
+Matthew Johansson,M,English Lit.,MOCK 2,8,1,green
+Joe Swank,M,English Lit.,MOCK 2,4,-2,red
+Christian Gable,M,English Lit.,MOCK 2,5,-0.5,red
+Zero Cage,M,English Lit.,MOCK 2,5,-3,red
+Karl Berry,F,English Lit.,MOCK 2,6,0,blue
+Vivien Bergen,F,English Lit.,MOCK 2,5,-0.5,red
+Cuba Olivier,M,English Lit.,MOCK 2,3,-4,red
+Fred Costner,F,English Lit.,MOCK 2,3,-0.5,red
+Helen Voight,M,English Lit.,MOCK 2,3,-2,red
+Dan Torn,M,English Lit.,MOCK 2,6,0.5,green
+Bob Fawcett,F,English Lit.,MOCK 2,6,3,green
+Mary Tandy,M,Film Studies,MOCK 2,6,-0.5,red
+Ray Johansson,M,Film Studies,MOCK 2,3,-1.5,red
+Christian Akroyd,M,Film Studies,MOCK 2,2,-0.5,red
+Carmen Hunt,M,Film Studies,MOCK 2,5,1,green
+Sissy Sobieski,M,Food Prep. & Nut.,MOCK 2,5,0,blue
+Val Bolger,M,Food Prep. & Nut.,MOCK 2,6,0,blue
+Tom Mckellen,M,Food Prep. & Nut.,MOCK 2,5,-1,red
+Goldie Brody,M,Food Prep. & Nut.,MOCK 2,5,0,blue
+Kirk Jovovich,M,Food Prep. & Nut.,MOCK 2,4,-1,red
+Parker Goldberg,M,Food Prep. & Nut.,MOCK 2,6,1,green
+Frances Day-Lewis,F,Food Prep. & Nut.,MOCK 2,8,2.5,green
+Penelope Pinkett,M,Food Prep. & Nut.,MOCK 2,8,0,blue
+Woody Hoffman,F,Food Prep. & Nut.,MOCK 2,7,1,green
+Christian Akroyd,M,Food Prep. & Nut.,MOCK 2,6,0.5,green
+Angela Hudson,M,Food Prep. & Nut.,MOCK 2,7,1.5,green
+Rip Winslet,M,Food Prep. & Nut.,MOCK 2,4,1,green
+Kenneth Paltrow,M,Food Prep. & Nut.,MOCK 2,6,-2,red
+Joe Swank,M,Film Studies,MOCK 2,3,-2.5,red
+Karl Berry,F,Film Studies,MOCK 2,7,3.5,green
+Alec Wayne,M,Film Studies,MOCK 2,6,1.5,green
+Kirk Jovovich,M,Film Studies,MOCK 2,3,0,blue
+Parker Goldberg,M,Film Studies,MOCK 2,4,1,green
+Dustin Tautou,M,Food Prep. & Nut.,MOCK 2,4,0,blue
+Cameron Streep,M,English Lit.,MOCK 2,4,-1.5,red
+Nick Wahlberg,M,Economics,GCSE,5,,black
+Jessica Bailey,F,English Lang.,GCSE,6,1,green
+Christian Akroyd,M,Film Studies,GCSE,5,-0.5,red
+Christian Akroyd,M,English Lang.,GCSE,6,0.5,green
+Christian Akroyd,M,English Lit.,GCSE,3,-2.5,red
+Christian Akroyd,M,Maths,GCSE,4,-1.5,red
+Jude Cruise,F,English Lit.,GCSE,3,-0.5,red
+Tim Hackman,M,Combined Science,GCSE,3.5,-1,red
+Tim Hackman,M,English Lang.,GCSE,3,-2,red
+Christian Akroyd,M,3D Design,GCSE,8,2.5,green
+Tim Hackman,M,English Lit.,GCSE,6,1,green
+Milla Peck,F,Combined Science,GCSE,4,0.5,green
+Milla Peck,F,English Lang.,GCSE,4,0,blue
+Milla Peck,F,Maths,GCSE,4,0.5,green
+Jude Cruise,F,English Lang.,GCSE,4,0.5,green
+Jude Cruise,F,Drama,GCSE,2,-2,red
+Jude Cruise,F,Maths,GCSE,4,1,green
+Jude Cruise,F,Music,GCSE,4,0,blue
+Milla Peck,F,3D Design,GCSE,6,2,green
+Christian Akroyd,M,Food Prep. & Nut.,GCSE,6,0.5,green
+Dustin Tautou,M,Combined Science,GCSE,4,0.5,green
+Dustin Tautou,M,Geography,GCSE,4,0.5,green
+Christian Neeson,F,Maths,GCSE,6,0,blue
+Christian Neeson,F,Combined Science,GCSE,6,0.5,green
+Christian Neeson,F,French,GCSE,9,3.5,green
+Christian Neeson,F,Computer Science,GCSE,4,-1,red
+Christian Neeson,F,English Lit.,GCSE,5,-1,red
+Henry Berry,F,History,GCSE,4,-1.5,red
+Henry Berry,F,Maths,GCSE,4,-1.5,red
+Henry Berry,F,English Lit.,GCSE,4,-1.5,red
+Henry Berry,F,English Lang.,GCSE,5,-0.5,red
+Henry Berry,F,Drama,GCSE,4,-1.5,red
+Henry Berry,F,Geography,GCSE,4,-1.5,red
+Henry Berry,F,Combined Science,GCSE,4.5,-0.5,red
+Dustin Tautou,M,English Lang.,GCSE,5,1.5,green
+Dustin Tautou,M,English Lit.,GCSE,4,0,blue
+Dustin Tautou,M,Maths,GCSE,4,1,green
+Dustin Tautou,M,Computer Science,GCSE,1,-1,red
+Dustin Tautou,M,Food Prep. & Nut.,GCSE,4,0,blue
+Jude Cruise,F,Combined Science,GCSE,3.5,0.5,green
+Dan Harris,F,Spanish,GCSE,6,-1,red
+Dan Harris,F,History,GCSE,7,-0.5,red
+Dan Harris,F,Geography,GCSE,8,0.5,green
+Penelope Pinkett,M,Computer Science,GCSE,5,-1.5,red
+Penelope Pinkett,M,Physics,GCSE,8,0.5,green
+Penelope Pinkett,M,English Lang.,GCSE,6,-1,red
+Penelope Pinkett,M,English Lit.,GCSE,6,-1.5,red
+Penelope Pinkett,M,History,GCSE,7,-0.5,red
+Penelope Pinkett,M,Biology,GCSE,7,-0.5,red
+Penelope Pinkett,M,Further Maths,GCSE,8,,black
+Mena Temple,M,Computer Science,GCSE,4,-3,red
+Mena Temple,M,Music,GCSE,6,-1.5,red
+Mena Temple,M,English Lang.,GCSE,5,-2.5,red
+Mena Temple,M,Drama,GCSE,5,-2,red
+Mena Temple,M,Biology,GCSE,6,-2,red
+Mena Temple,M,Maths,GCSE,8,0,blue
+Mena Temple,M,Physics,GCSE,6,-2,red
+Mena Temple,M,French,GCSE,6,-1,red
+Mena Temple,M,English Lit.,GCSE,4,-3.5,red
+Mena Temple,M,Chemistry,GCSE,6,-2,red
+Penelope Pinkett,M,Food Prep. & Nut.,GCSE,7,0,blue
+Christian Neeson,F,Art,GCSE,8,2,green
+Penelope Pinkett,M,Geography,GCSE,8,0.5,green
+Penelope Pinkett,M,Chemistry,GCSE,6,-1.5,red
+Dan Harris,F,Maths,GCSE,6,-1.5,red
+Dan Harris,F,Biology,GCSE,6,-1.5,red
+Dan Harris,F,Art,GCSE,8,1,green
+Dan Harris,F,English Lit.,GCSE,7,0,blue
+Dan Harris,F,Physics,GCSE,8,0.5,green
+Dan Harris,F,English Lang.,GCSE,8,1,green
+Dan Harris,F,Chemistry,GCSE,6,-1.5,red
+Fay Kilmer,F,Geography,GCSE,4,-2.5,red
+Fay Kilmer,F,Biology,GCSE,6,-1,red
+Fay Kilmer,F,Maths,GCSE,5,-1.5,red
+Fay Kilmer,F,English Lit.,GCSE,7,0.5,green
+Fay Kilmer,F,French,GCSE,9,3,green
+Fay Kilmer,F,Chemistry,GCSE,6,-0.5,red
+Fay Kilmer,F,Spanish,GCSE,9,3,green
+Fay Kilmer,F,Physics,GCSE,6,-0.5,red
+Fay Kilmer,F,Art,GCSE,9,2.5,green
+Fay Kilmer,F,English Lang.,GCSE,6,-0.5,red
+Penelope Pinkett,M,Maths,GCSE,8,0.5,green
+Mena Temple,M,Further Maths,GCSE,8,,black
+Christian Neeson,F,3D Design,GCSE,7,1,green
+Jayne Neeson,M,English Lang.,GCSE,6,0.5,green
+Kenneth Paltrow,M,Art,GCSE,8,1,green
+Kenneth Paltrow,M,French,GCSE,5,-1.5,red
+Kenneth Paltrow,M,English Lang.,GCSE,5,-2,red
+Kenneth Paltrow,M,English Lit.,GCSE,5,-2,red
+Rip Winslet,M,English Lit.,GCSE,4,-1,red
+Rip Winslet,M,Maths,GCSE,4,-0.5,red
+Rip Winslet,M,English Lang.,GCSE,4,-0.5,red
+Kenneth Paltrow,M,Food Prep. & Nut.,GCSE,5,-2,red
+Rip Winslet,M,Drama,GCSE,5,0,blue
+Rip Winslet,M,Geography,GCSE,5,0.5,green
+Rip Winslet,M,Music,GCSE,5,0,blue
+Rip Winslet,M,Food Prep. & Nut.,GCSE,6,1,green
+Tom Mckellen,M,Food Prep. & Nut.,GCSE,5,-1,red
+Jessica Bailey,F,Film Studies,GCSE,6,1,green
+Jessica Bailey,F,Maths,GCSE,6,1,green
+Jessica Bailey,F,Combined Science,GCSE,6.5,2,green
+Rip Winslet,M,Combined Science,GCSE,5,0.5,green
+Kenneth Paltrow,M,Maths,GCSE,4,-3.5,red
+Kenneth Paltrow,M,Geography,GCSE,6,-1.5,red
+Kenneth Paltrow,M,Combined Science,GCSE,5,-1.5,red
+Adam Grant,M,English Lang.,GCSE,5,-1,red
+Adam Grant,M,Combined Science,GCSE,6,0.5,green
+Adam Grant,M,English Lit.,GCSE,4,-2,red
+Adam Grant,M,French,GCSE,5,-0.5,red
+Adam Grant,M,PE,GCSE,6,0,blue
+Adam Grant,M,Geography,GCSE,5,-1,red
+Michelle Mcconaughey,F,French,GCSE,8,2.5,green
+Michelle Mcconaughey,F,Maths,GCSE,7,1,green
+Michelle Mcconaughey,F,Chemistry,GCSE,7,0.5,green
+Michelle Mcconaughey,F,PE,GCSE,9,3,green
+Michelle Mcconaughey,F,English Lang.,GCSE,9,3,green
+Michelle Mcconaughey,F,Further Maths,GCSE,4,,black
+Michelle Mcconaughey,F,Geography,GCSE,9,3,green
+Michelle Mcconaughey,F,Drama,GCSE,7,1,green
+Michelle Mcconaughey,F,Physics,GCSE,6,-0.5,red
+Michelle Mcconaughey,F,Biology,GCSE,7,0.5,green
+Michelle Mcconaughey,F,English Lit.,GCSE,9,3,green
+Jessica Bailey,F,Computer Science,GCSE,4,0,blue
+Jessica Bailey,F,English Lit.,GCSE,6,1,green
+Jessica Bailey,F,Music,GCSE,4,-1.5,red
+Mary Tandy,M,English Lang.,GCSE,7,0.5,green
+Ray Johansson,M,Film Studies,GCSE,4,-1.5,red
+Ray Johansson,M,English Lang.,GCSE,3,-3,red
+Cameron Wray,M,Maths,GCSE,7,-0.5,red
+Cameron Wray,M,Art,GCSE,5,-2,red
+Cameron Wray,M,English Lit.,GCSE,5,-2,red
+Cameron Wray,M,English Lang.,GCSE,6,-1,red
+Cameron Wray,M,Combined Science,GCSE,8,1.5,green
+Cameron Wray,M,Drama,GCSE,6,-0.5,red
+Cameron Wray,M,Geography,GCSE,6,-1,red
+Cameron Wray,M,History,GCSE,6,-1,red
+Jayne Neeson,M,Geography,GCSE,6,0.5,green
+Jayne Neeson,M,French,GCSE,4,-1,red
+Jayne Neeson,M,Maths,GCSE,5,-0.5,red
+Jayne Neeson,M,Combined Science,GCSE,5.5,0.5,green
+Jayne Neeson,M,English Lit.,GCSE,6,0.5,green
+Jayne Neeson,M,Computer Science,GCSE,5,0.5,green
+Jayne Neeson,M,Art,GCSE,9,3,green
+Ray Johansson,M,English Lit.,GCSE,2,-4,red
+Christian Neeson,F,English Lang.,GCSE,6,0,blue
+Ray Johansson,M,PE,GCSE,5,-1,red
+Ray Johansson,M,Combined Science,GCSE,5.5,0,blue
+Mary Tandy,M,Combined Science,GCSE,7.5,1.5,green
+Mary Tandy,M,French,GCSE,6,-0.5,red
+Mary Tandy,M,History,GCSE,8,1.5,green
+Mary Tandy,M,Film Studies,GCSE,6,-0.5,red
+Mary Tandy,M,English Lit.,GCSE,7,0.5,green
+Mary Tandy,M,Geography,GCSE,8,1,green
+Mary Tandy,M,Maths,GCSE,6,-1,red
+Angela Hudson,M,Maths,GCSE,6,0.5,green
+Angela Hudson,M,3D Design,GCSE,8,2.5,green
+Angela Hudson,M,Food Prep. & Nut.,GCSE,7,1.5,green
+Angela Hudson,M,English Lit.,GCSE,4,-1.5,red
+Angela Hudson,M,Combined Science,GCSE,6.5,1.5,green
+Angela Hudson,M,Geography,GCSE,6,0.5,green
+Angela Hudson,M,English Lang.,GCSE,5,-0.5,red
+Angela Hudson,M,Computer Science,GCSE,5,0.5,green
+Ray Johansson,M,French,GCSE,6,0.5,green
+Ray Johansson,M,Spanish,GCSE,5,-0.5,red
+Ray Johansson,M,Maths,GCSE,5,-1,red
+Carmen Hunt,M,Combined Science,GCSE,7.5,2,green
+Carmen Hunt,M,English Lang.,GCSE,7,1,green
+Carmen Hunt,M,Computer Science,GCSE,6,1,green
+Kirk Jovovich,M,English Lang.,GCSE,3,-2,red
+Kirk Jovovich,M,English Lit.,GCSE,3,-2,red
+Tom Miranda,M,Chemistry,GCSE,9,1,green
+Tom Miranda,M,History,GCSE,7,-1,red
+Tom Miranda,M,English Lang.,GCSE,8,0.5,green
+Tom Miranda,M,English Lit.,GCSE,9,1,green
+Tom Miranda,M,Physics,GCSE,9,1,green
+Kirk Jovovich,M,Art,GCSE,4,-1.5,red
+Tom Miranda,M,Maths,GCSE,8,-0.5,red
+Tom Miranda,M,Geography,GCSE,7,-1,red
+Tom Miranda,M,Further Maths,GCSE,6,,black
+Tom Miranda,M,Biology,GCSE,8,0,blue
+Tom Miranda,M,Music,GCSE,8,0.5,green
+Jodie Degeneres,F,Geography,GCSE,7,-2,red
+Jodie Degeneres,F,English Lang.,GCSE,7,-1.5,red
+Jodie Degeneres,F,Chemistry,GCSE,8,-0.5,red
+Tom Miranda,M,French,GCSE,8,0.5,green
+Kirk Jovovich,M,Combined Science,GCSE,4,-0.5,red
+Kirk Jovovich,M,Drama,GCSE,5,0,blue
+Kirk Jovovich,M,Food Prep. & Nut.,GCSE,4,-1,red
+Reese Kilmer,F,Drama,GCSE,4,-2,red
+Reese Kilmer,F,Further Maths,GCSE,5,,black
+Reese Kilmer,F,3D Design,GCSE,8,2,green
+Reese Kilmer,F,Physics,GCSE,6,-0.5,red
+Reese Kilmer,F,Maths,GCSE,7,1,green
+Reese Kilmer,F,Biology,GCSE,5,-1.5,red
+Reese Kilmer,F,English Lit.,GCSE,4,-2,red
+Reese Kilmer,F,English Lang.,GCSE,5,-1,red
+Nick Stallone,M,English Lit.,GCSE,2,-1.5,red
+Nick Stallone,M,Combined Science,GCSE,5,2,green
+Nick Stallone,M,PE,GCSE,7,3.5,green
+Nick Stallone,M,Maths,GCSE,4,1.5,green
+Nick Stallone,M,Art,GCSE,6,1.5,green
+Nick Stallone,M,English Lang.,GCSE,4,1,green
+Nick Stallone,M,Geography,GCSE,5,2.5,green
+Kirk Jovovich,M,Film Studies,GCSE,5,0,blue
+Kirk Jovovich,M,Maths,GCSE,3,-2,red
+Jodie Degeneres,F,Further Maths,GCSE,8,,black
+Jodie Degeneres,F,Art,GCSE,8,0,blue
+Jodie Degeneres,F,Economics,GCSE,6,,black
+Jodie Degeneres,F,Physics,GCSE,8,-1,red
+Burt Dukakis,F,Art,GCSE,8,2,green
+Val Bolger,M,Combined Science,GCSE,7,2.5,green
+Val Bolger,M,English Lit.,GCSE,4,-1,red
+Val Bolger,M,English Lang.,GCSE,5,0,blue
+Val Bolger,M,PE,GCSE,8,2.5,green
+Val Bolger,M,Maths,GCSE,5,0,blue
+Val Bolger,M,3D Design,GCSE,8,3,green
+Val Bolger,M,Food Prep. & Nut.,GCSE,5,0,blue
+Tom Mckellen,M,PE,GCSE,7,1,green
+Tom Mckellen,M,Geography,GCSE,5,-1,red
+Tom Mckellen,M,English Lit.,GCSE,3,-3,red
+Tom Mckellen,M,Biology,GCSE,6,-0.5,red
+Tom Mckellen,M,Maths,GCSE,6,0,blue
+Tom Mckellen,M,Physics,GCSE,6,-0.5,red
+Tom Mckellen,M,English Lang.,GCSE,3,-3,red
+Tom Mckellen,M,Art,GCSE,4,-2,red
+Tom Mckellen,M,Chemistry,GCSE,6,-0.5,red
+Burt Dukakis,F,Maths,GCSE,5,-1,red
+Reese Kilmer,F,Geography,GCSE,4,-2,red
+Burt Dukakis,F,Drama,GCSE,5,-1,red
+Goldie Brody,M,English Lit.,GCSE,5,-1,red
+Jodie Degeneres,F,Computer Science,GCSE,8,0,blue
+Jodie Degeneres,F,Biology,GCSE,7,-2,red
+Jodie Degeneres,F,Maths,GCSE,8,-1,red
+Johnny Cage,M,History,GCSE,5,-0.5,red
+Johnny Cage,M,English Lit.,GCSE,4,-2,red
+Johnny Cage,M,English Lang.,GCSE,5,-0.5,red
+Johnny Cage,M,Maths,GCSE,4,-1.5,red
+Johnny Cage,M,Combined Science,GCSE,4.5,-0.5,red
+Johnny Cage,M,Computer Science,GCSE,3,-1.5,red
+Johnny Cage,M,Music,GCSE,5,-1,red
+Johnny Cage,M,Spanish,GCSE,4,-1.5,red
+Goldie Brody,M,Maths,GCSE,6,0,blue
+Goldie Brody,M,Combined Science,GCSE,7.5,2,green
+Goldie Brody,M,PE,GCSE,8,2,green
+Goldie Brody,M,English Lang.,GCSE,6,0.5,green
+Goldie Brody,M,3D Design,GCSE,6,0.5,green
+Goldie Brody,M,Food Prep. & Nut.,GCSE,6,0,blue
+Burt Dukakis,F,Geography,GCSE,5,-1,red
+Reese Kilmer,F,Chemistry,GCSE,5,-1.5,red
+Parker Goldberg,M,Maths,GCSE,7,2.5,green
+Parker Goldberg,M,Film Studies,GCSE,6,1,green
+Natalie Hopkins,M,English Lit.,GCSE,5,-0.5,red
+Natalie Hopkins,M,Geography,GCSE,5,0,blue
+Anne Cronyn,M,English Lang.,GCSE,6,0,blue
+Anne Cronyn,M,English Lit.,GCSE,4,-2,red
+Anne Cronyn,M,Computer Science,GCSE,3,-2,red
+Anne Cronyn,M,Combined Science,GCSE,5.5,0,blue
+Anne Cronyn,M,Maths,GCSE,5,-1,red
+Anne Cronyn,M,Geography,GCSE,5,-1,red
+Anne Cronyn,M,3D Design,GCSE,7,1.5,green
+Anne Cronyn,M,Spanish,GCSE,5,-0.5,red
+Frances Day-Lewis,F,Physics,GCSE,7,1.5,green
+Frances Day-Lewis,F,Further Maths,GCSE,5,,black
+Frances Day-Lewis,F,Spanish,GCSE,6,1,green
+Frances Day-Lewis,F,English Lit.,GCSE,8,2.5,green
+Milla Peck,F,English Lit.,GCSE,3,-1,red
+Audrey Olivier,M,Music,GCSE,7,1.5,green
+Audrey Olivier,M,3D Design,GCSE,7,2,green
+Natalie Hopkins,M,Computer Science,GCSE,4,0,blue
+Audrey Olivier,M,Maths,GCSE,6,1,green
+Natalie Hopkins,M,Economics,GCSE,5,,black
+Natalie Hopkins,M,English Lang.,GCSE,5,0,blue
+Carmen Hunt,M,English Lit.,GCSE,6,0,blue
+Carmen Hunt,M,Music,GCSE,7,1,green
+Carmen Hunt,M,Drama,GCSE,8,2,green
+Carmen Hunt,M,Maths,GCSE,7,1,green
+Carmen Hunt,M,Film Studies,GCSE,7,1,green
+Gary Phoenix,M,Maths,GCSE,4,-1.5,red
+Gary Phoenix,M,History,GCSE,7,1.5,green
+Gary Phoenix,M,Economics,GCSE,6,,black
+Gary Phoenix,M,Geography,GCSE,6,0.5,green
+Gary Phoenix,M,English Lit.,GCSE,7,1.5,green
+Gary Phoenix,M,English Lang.,GCSE,7,1.5,green
+Gary Phoenix,M,Spanish,GCSE,3,-2.5,red
+Gary Phoenix,M,Combined Science,GCSE,5.5,0.5,green
+Gary Phoenix,M,Drama,GCSE,6,0.5,green
+Natalie Hopkins,M,3D Design,GCSE,9,4,green
+Natalie Hopkins,M,Maths,GCSE,6,1,green
+Natalie Hopkins,M,Combined Science,GCSE,6.5,1.5,green
+Natalie Hopkins,M,Astronomy,GCSE,4,,black
+Adam Grant,M,Art,GCSE,5,-1,red
+Audrey Olivier,M,English Lit.,GCSE,6,0.5,green
+Audrey Olivier,M,Computer Science,GCSE,3,-1,red
+Julia Barrymore,F,Spanish,GCSE,6,0.5,green
+Julia Barrymore,F,English Lit.,GCSE,4,-2,red
+Julia Barrymore,F,Biology,GCSE,6,-0.5,red
+Julia Barrymore,F,History,GCSE,4,-2,red
+Julia Barrymore,F,Art,GCSE,8,2,green
+Julia Barrymore,F,Maths,GCSE,5,-1,red
+Julia Barrymore,F,Physics,GCSE,5,-1.5,red
+Julia Barrymore,F,English Lang.,GCSE,6,0,blue
+Julia Barrymore,F,Chemistry,GCSE,5,-1.5,red
+Parker Goldberg,M,3D Design,GCSE,7,2,green
+Parker Goldberg,M,Food Prep. & Nut.,GCSE,6,1,green
+Parker Goldberg,M,Biology,GCSE,9,3.5,green
+Parker Goldberg,M,English Lit.,GCSE,6,1,green
+Parker Goldberg,M,Chemistry,GCSE,8,2.5,green
+Parker Goldberg,M,English Lang.,GCSE,6,1,green
+Parker Goldberg,M,Physics,GCSE,8,2.5,green
+Parker Goldberg,M,Geography,GCSE,7,2,green
+Julia Barrymore,F,Geography,GCSE,7,1,green
+Audrey Olivier,M,English Lang.,GCSE,5,0,blue
+Frances Day-Lewis,F,Food Prep. & Nut.,GCSE,8,2.5,green
+Frances Day-Lewis,F,Music,GCSE,9,3.5,green
+Audrey Olivier,M,PE,GCSE,7,1.5,green
+Audrey Olivier,M,Combined Science,GCSE,6.5,2,green
+Judy Dean,M,English Lit.,GCSE,5,-0.5,red
+Judy Dean,M,Combined Science,GCSE,5,0,blue
+Judy Dean,M,Geography,GCSE,4,-1.5,red
+Judy Dean,M,English Lang.,GCSE,5,-0.5,red
+Judy Dean,M,Maths,GCSE,6,0.5,green
+Judy Dean,M,French,GCSE,4,-1,red
+Judy Dean,M,PE,GCSE,5,-0.5,red
+Judy Dean,M,3D Design,GCSE,8,2.5,green
+Burt Dukakis,F,Combined Science,GCSE,4.5,-1,red
+Burt Dukakis,F,English Lang.,GCSE,4,-2,red
+Burt Dukakis,F,English Lit.,GCSE,5,-1,red
+Frances Day-Lewis,F,Chemistry,GCSE,7,1.5,green
+Frances Day-Lewis,F,English Lang.,GCSE,9,4,green
+Frances Day-Lewis,F,Biology,GCSE,7,1.5,green
+Frances Day-Lewis,F,Maths,GCSE,7,2,green
+Frances Day-Lewis,F,Geography,GCSE,8,3,green
+Adam Grant,M,Maths,GCSE,5,-1,red
+Goldie Brody,M,Computer Science,GCSE,5,0.5,green
+Sean Williams,M,English Lang.,GCSE,5,-1.5,red
+Karl Berry,F,Chemistry,GCSE,6,0,blue
+Karl Berry,F,English Lang.,GCSE,7,1,green
+Karl Berry,F,Spanish,GCSE,7,1.5,green
+Karl Berry,F,Film Studies,GCSE,9,3.5,green
+Karl Berry,F,English Lit.,GCSE,6,0,blue
+Karl Berry,F,Drama,GCSE,8,2.5,green
+Karl Berry,F,Geography,GCSE,7,1,green
+Karl Berry,F,Maths,GCSE,6,0,blue
+Karl Berry,F,Biology,GCSE,6,-0.5,red
+Zero Cage,M,Astronomy,GCSE,3,,black
+Zero Cage,M,English Lang.,GCSE,6,-1,red
+Zero Cage,M,Physics,GCSE,7,-0.5,red
+Zero Cage,M,English Lit.,GCSE,4,-3,red
+Zero Cage,M,History,GCSE,5,-2,red
+Karl Berry,F,Physics,GCSE,6,0,blue
+Zero Cage,M,Chemistry,GCSE,7,-0.5,red
+Zero Cage,M,Economics,GCSE,6,,black
+Zero Cage,M,Geography,GCSE,5,-2.5,red
+Zero Cage,M,Further Maths,GCSE,6,,black
+Zero Cage,M,Computer Science,GCSE,7,0.5,green
+Zero Cage,M,Biology,GCSE,6,-1.5,red
+Christian Gable,M,Geography,GCSE,5,-1.5,red
+Christian Gable,M,Maths,GCSE,5,-2,red
+Christian Gable,M,English Lang.,GCSE,5,-1.5,red
+Christian Gable,M,Art,GCSE,5,-1.5,red
+Christian Gable,M,Drama,GCSE,6,0,blue
+Christian Gable,M,Combined Science,GCSE,5.5,-0.5,red
+Christian Gable,M,English Lit.,GCSE,6,-0.5,red
+Christian Gable,M,Food Prep. & Nut.,GCSE,6,-0.5,red
+Joe Swank,M,Computer Science,GCSE,4,-0.5,red
+Zero Cage,M,Maths,GCSE,7,-0.5,red
+Joe Swank,M,History,GCSE,5,-0.5,red
+Uma Wood,F,History,GCSE,3,-1,red
+Uma Wood,F,Drama,GCSE,5,1,green
+Helen Voight,M,3D Design,GCSE,6,1,green
+Helen Voight,M,Drama,GCSE,4,-1,red
+Helen Voight,M,Maths,GCSE,4,-0.5,red
+Fred Costner,F,Maths,GCSE,4,0,blue
+Fred Costner,F,Combined Science,GCSE,4.5,0.5,green
+Fred Costner,F,English Lang.,GCSE,4,-0.5,red
+Fred Costner,F,PE,GCSE,6,1,green
+Fred Costner,F,Art,GCSE,6,1,green
+Fred Costner,F,English Lit.,GCSE,4,-0.5,red
+Cuba Olivier,M,Combined Science,GCSE,0,-2.5,red
+Cuba Olivier,M,3D Design,GCSE,4,-1.5,red
+Cuba Olivier,M,Computer Science,GCSE,1,-3.5,red
+Cuba Olivier,M,Maths,GCSE,4,-2,red
+Cuba Olivier,M,English Lang.,GCSE,3,-2.5,red
+Uma Wood,F,Combined Science,GCSE,5,1.5,green
+Cuba Olivier,M,English Lit.,GCSE,2,-4,red
+Vivien Bergen,F,English Lit.,GCSE,6,-0.5,red
+Vivien Bergen,F,Art,GCSE,6,-0.5,red
+Vivien Bergen,F,Biology,GCSE,7,0.5,green
+Vivien Bergen,F,Food Prep. & Nut.,GCSE,7,1,green
+Vivien Bergen,F,Chemistry,GCSE,8,1.5,green
+Vivien Bergen,F,Maths,GCSE,7,0.5,green
+Vivien Bergen,F,French,GCSE,7,1,green
+Vivien Bergen,F,Physics,GCSE,7,0.5,green
+Vivien Bergen,F,Computer Science,GCSE,6,1,green
+Vivien Bergen,F,English Lang.,GCSE,6,0,blue
+Uma Wood,F,English Lit.,GCSE,4,0,blue
+Uma Wood,F,Maths,GCSE,4,0.5,green
+Sean Williams,M,Chemistry,GCSE,7,0,blue
+Uma Wood,F,English Lang.,GCSE,4,0,blue
+Cuba Olivier,M,Geography,GCSE,3,-3,red
+Helen Voight,M,Music,GCSE,3,-2,red
+Joe Swank,M,English Lang.,GCSE,4,-1.5,red
+Joe Swank,M,Film Studies,GCSE,3,-2.5,red
+Johnny Lollobrigida,M,Drama,GCSE,5,-0.5,red
+Johnny Lollobrigida,M,English Lit.,GCSE,5,-0.5,red
+Johnny Lollobrigida,M,English Lang.,GCSE,5,-0.5,red
+Johnny Lollobrigida,M,Maths,GCSE,5,-0.5,red
+Johnny Lollobrigida,M,Food Prep. & Nut.,GCSE,4,-1.5,red
+Jennifer Davis,M,Biology,GCSE,6,0,blue
+Jennifer Davis,M,Further Maths,GCSE,8,,black
+Jennifer Davis,M,Maths,GCSE,8,2.5,green
+Jennifer Davis,M,Art,GCSE,7,1,green
+Jennifer Davis,M,Computer Science,GCSE,4,-0.5,red
+Jennifer Davis,M,English Lang.,GCSE,4,-1.5,red
+Jennifer Davis,M,Geography,GCSE,6,0.5,green
+Jennifer Davis,M,English Lit.,GCSE,6,0.5,green
+Jennifer Davis,M,Physics,GCSE,7,1,green
+Johnny Lollobrigida,M,Art,GCSE,6,0,blue
+Jennifer Davis,M,Spanish,GCSE,6,1,green
+Ed Chase,M,Art,GCSE,4,-1,red
+Ed Chase,M,Combined Science,GCSE,2.5,-1.5,red
+Ed Chase,M,Food Prep. & Nut.,GCSE,3,-1.5,red
+Ed Chase,M,Maths,GCSE,4,0,blue
+Nick Wahlberg,M,Geography,GCSE,6,-1.5,red
+Nick Wahlberg,M,Spanish,GCSE,7,0,blue
+Nick Wahlberg,M,Maths,GCSE,4,-4,red
+Nick Wahlberg,M,Biology,GCSE,6,-2,red
+Nick Wahlberg,M,French,GCSE,6,-1,red
+Nick Wahlberg,M,Food Prep. & Nut.,GCSE,7,-0.5,red
+Nick Wahlberg,M,Physics,GCSE,6,-1.5,red
+Nick Wahlberg,M,English Lit.,GCSE,4,-3.5,red
+Nick Wahlberg,M,Chemistry,GCSE,6,-1.5,red
+Nick Wahlberg,M,English Lang.,GCSE,6,-1.5,red
+Jennifer Davis,M,Chemistry,GCSE,7,1,green
+Joe Swank,M,Drama,GCSE,5,-0.5,red
+Johnny Lollobrigida,M,Combined Science,GCSE,5,0,blue
+Bette Nicholson,M,English Lang.,GCSE,7,1.5,green
+Joe Swank,M,Maths,GCSE,5,-0.5,red
+Joe Swank,M,English Lit.,GCSE,4,-2,red
+Joe Swank,M,Combined Science,GCSE,5,-0.5,red
+Matthew Johansson,M,French,GCSE,9,1.5,green
+Matthew Johansson,M,Further Maths,GCSE,6,,black
+Matthew Johansson,M,Biology,GCSE,8,-0.5,red
+Matthew Johansson,M,Art,GCSE,8,0.5,green
+Matthew Johansson,M,Music,GCSE,6,-1.5,red
+Matthew Johansson,M,History,GCSE,7,-1,red
+Matthew Johansson,M,English Lit.,GCSE,9,1,green
+Matthew Johansson,M,Physics,GCSE,8,-0.5,red
+Matthew Johansson,M,English Lang.,GCSE,9,1,green
+Matthew Johansson,M,Maths,GCSE,8,-0.5,red
+Matthew Johansson,M,Chemistry,GCSE,8,0,blue
+Bette Nicholson,M,3D Design,GCSE,5,-0.5,red
+Grace Mostel,M,Art,GCSE,8,1,green
+Grace Mostel,M,English Lit.,GCSE,7,0,blue
+Grace Mostel,M,French,GCSE,9,2.5,green
+Grace Mostel,M,Chemistry,GCSE,7,0,blue
+Grace Mostel,M,History,GCSE,8,1,green
+Grace Mostel,M,Physics,GCSE,6,-1.5,red
+Grace Mostel,M,Biology,GCSE,7,-0.5,red
+Grace Mostel,M,English Lang.,GCSE,8,1,green
+Grace Mostel,M,Maths,GCSE,6,-1,red
+Bette Nicholson,M,Art,GCSE,4,-2,red
+Bette Nicholson,M,English Lit.,GCSE,4,-2,red
+Bette Nicholson,M,Combined Science,GCSE,4,-1,red
+Bette Nicholson,M,Maths,GCSE,3,-2.5,red
+Bette Nicholson,M,Music,GCSE,8,2,green
+Bette Nicholson,M,Spanish,GCSE,3,-2.5,red
+Grace Mostel,M,Music,GCSE,7,0,blue
+Helen Voight,M,English Lit.,GCSE,3,-2,red
+Uma Wood,F,Art,GCSE,8,3,green
+Helen Voight,M,Combined Science,GCSE,3.5,-1,red
+Julia Mcqueen,M,English Lang.,GCSE,5,-1,red
+Julia Mcqueen,M,Geography,GCSE,5,-1,red
+Julia Mcqueen,M,Spanish,GCSE,8,2.5,green
+Julia Mcqueen,M,Maths,GCSE,5,-1,red
+Julia Mcqueen,M,Art,GCSE,6,0,blue
+Rip Crawford,M,French,GCSE,3,-3.5,red
+Julia Mcqueen,M,Combined Science,GCSE,5.5,0,blue
+Rip Crawford,M,Combined Science,GCSE,5,-1.5,red
+Rip Crawford,M,Maths,GCSE,5,-2,red
+Rip Crawford,M,Geography,GCSE,2,-5,red
+Kirsten Paltrow,F,Spanish,GCSE,6,1.5,green
+Kirsten Paltrow,F,Geography,GCSE,7,2.5,green
+Elvis Marx,M,English Lang.,GCSE,5,-2,red
+Elvis Marx,M,3D Design,GCSE,8,1.5,green
+Rip Crawford,M,Computer Science,GCSE,3,-3,red
+Elvis Marx,M,Physics,GCSE,6,-1.5,red
+Julia Mcqueen,M,English Lit.,GCSE,4,-2,red
+Woody Hoffman,F,Geography,GCSE,3,-0.5,red
+Sandra Peck,F,Food Prep. & Nut.,GCSE,9,2.5,green
+Sandra Peck,F,Drama,GCSE,8,2,green
+Alec Wayne,M,Film Studies,GCSE,7,1.5,green
+Alec Wayne,M,History,GCSE,5,-0.5,red
+Alec Wayne,M,Maths,GCSE,6,0.5,green
+Alec Wayne,M,English Lit.,GCSE,5,-1,red
+Julia Mcqueen,M,Computer Science,GCSE,3,-2,red
+Alec Wayne,M,English Lang.,GCSE,6,0.5,green
+Woody Hoffman,F,Drama,GCSE,5,1,green
+Woody Hoffman,F,Biology,GCSE,3,-1.5,red
+Woody Hoffman,F,English Lang.,GCSE,4,0,blue
+Woody Hoffman,F,Food Prep. & Nut.,GCSE,5,1,green
+Woody Hoffman,F,English Lit.,GCSE,4,0,blue
+Woody Hoffman,F,Maths,GCSE,3,0,blue
+Alec Wayne,M,Combined Science,GCSE,5,-0.5,red
+Elvis Marx,M,History,GCSE,5,-2,red
+Elvis Marx,M,Maths,GCSE,5,-2.5,red
+Elvis Marx,M,Biology,GCSE,8,0.5,green
+Elvis Marx,M,English Lit.,GCSE,4,-3,red
+Sandra Kilmer,M,English Lang.,GCSE,6,-0.5,red
+Sandra Kilmer,M,Maths,GCSE,4,-2.5,red
+Sandra Kilmer,M,Geography,GCSE,5,-1.5,red
+Sandra Kilmer,M,Art,GCSE,9,2.5,green
+Sandra Kilmer,M,Spanish,GCSE,5,-1,red
+Elvis Marx,M,Computer Science,GCSE,5,-1,red
+Sandra Kilmer,M,French,GCSE,6,0,blue
+Sandra Kilmer,M,English Lit.,GCSE,5,-1.5,red
+Cameron Streep,M,Combined Science,GCSE,7,2,green
+Cameron Streep,M,History,GCSE,4,-1.5,red
+Cameron Streep,M,English Lit.,GCSE,4,-1.5,red
+Cameron Streep,M,English Lang.,GCSE,5,-0.5,red
+Cameron Streep,M,PE,GCSE,6,0.5,green
+Sandra Kilmer,M,Combined Science,GCSE,5.5,-0.5,red
+Elvis Marx,M,Chemistry,GCSE,6,-1,red
+Elvis Marx,M,Economics,GCSE,6,,black
+Helen Voight,M,English Lang.,GCSE,4,-1,red
+Elvis Marx,M,Geography,GCSE,6,-1,red
+Rip Crawford,M,English Lang.,GCSE,5,-1.5,red
+Rip Crawford,M,English Lit.,GCSE,2,-5,red
+Kevin Bloom,M,Maths,GCSE,2,-1.5,red
+Kevin Bloom,M,History,GCSE,3,-0.5,red
+Kevin Bloom,M,PE,GCSE,5,1,green
+Kevin Bloom,M,Food Prep. & Nut.,GCSE,3,-1,red
+Kevin Bloom,M,English Lit.,GCSE,3,-1,red
+Kevin Bloom,M,Geography,GCSE,3,-0.5,red
+Kevin Bloom,M,Combined Science,GCSE,3,-0.5,red
+Kevin Bloom,M,English Lang.,GCSE,4,0,blue
+Cameron Streep,M,Further Maths,GCSE,6,,black
+Cameron Streep,M,Food Prep. & Nut.,GCSE,4,-1.5,red
+Cameron Streep,M,Geography,GCSE,6,0.5,green
+Cameron Streep,M,Maths,GCSE,8,2.5,green
+Sandra Peck,F,Geography,GCSE,8,1.5,green
+Sandra Peck,F,French,GCSE,7,1,green
+Alec Wayne,M,Drama,GCSE,4,-1.5,red
+Dan Torn,M,History,GCSE,8,1.5,green
+Sean Williams,M,Biology,GCSE,7,0,blue
+Sean Williams,M,Maths,GCSE,8,1,green
+Sean Williams,M,English Lit.,GCSE,6,-0.5,red
+Sean Williams,M,3D Design,GCSE,9,2.5,green
+Sandra Peck,F,Biology,GCSE,8,1,green
+Sandra Peck,F,Physics,GCSE,9,2,green
+Sandra Peck,F,English Lit.,GCSE,8,1.5,green
+Sandra Peck,F,Maths,GCSE,9,2,green
+Sandra Peck,F,Chemistry,GCSE,9,2,green
+Sandra Peck,F,English Lang.,GCSE,8,1.5,green
+Sean Williams,M,Physics,GCSE,7,0,blue
+Dan Torn,M,Biology,GCSE,9,2,green
+Dan Torn,M,English Lang.,GCSE,8,1.5,green
+Sean Williams,M,Drama,GCSE,7,0.5,green
+Dan Torn,M,English Lit.,GCSE,7,0.5,green
+Sissy Sobieski,M,French,GCSE,5,0.5,green
+Sissy Sobieski,M,Combined Science,GCSE,6,1.5,green
+Sissy Sobieski,M,PE,GCSE,6,0.5,green
+Sissy Sobieski,M,Food Prep. & Nut.,GCSE,5,0,blue
+Sissy Sobieski,M,English Lang.,GCSE,6,1,green
+Sissy Sobieski,M,3D Design,GCSE,6,1,green
+Sean Williams,M,Geography,GCSE,6,-0.5,red
+Sean Williams,M,Computer Science,GCSE,5,-0.5,red
+Tim Hackman,M,Geography,GCSE,3,-2,red
+Tim Hackman,M,3D Design,GCSE,9,4,green
+Tim Hackman,M,Maths,GCSE,4,-0.5,red
+Sissy Sobieski,M,Maths,GCSE,4,-1,red
+Tim Hackman,M,Art,GCSE,8,2.5,green
+Sandra Peck,F,Further Maths,GCSE,8,,black
+Sean Williams,M,Further Maths,GCSE,5,,black
+Dan Torn,M,French,GCSE,8,2,green
+Dan Torn,M,Drama,GCSE,9,2.5,green
+Kirsten Paltrow,F,English Lit.,GCSE,8,3,green
+Kirsten Paltrow,F,English Lang.,GCSE,7,2,green
+Kirsten Paltrow,F,French,GCSE,7,2.5,green
+Kirsten Paltrow,F,Combined Science,GCSE,7.5,3,green
+Kirsten Paltrow,F,Maths,GCSE,5,0.5,green
+Lucille Tracy,M,Computer Science,GCSE,4,-1,red
+Lucille Tracy,M,English Lang.,GCSE,8,2,green
+Lucille Tracy,M,History,GCSE,5,-1,red
+Lucille Tracy,M,Combined Science,GCSE,7.5,2,green
+Lucille Tracy,M,French,GCSE,7,1,green
+Lucille Tracy,M,Maths,GCSE,7,0.5,green
+Sissy Sobieski,M,English Lit.,GCSE,5,0,blue
+Lucille Tracy,M,Further Maths,GCSE,4,,black
+Lucille Tracy,M,English Lit.,GCSE,7,1,green
+Bob Fawcett,F,History,GCSE,9,3,green
+Bob Fawcett,F,Drama,GCSE,6,0.5,green
+Bob Fawcett,F,English Lit.,GCSE,9,3,green
+Bob Fawcett,F,Maths,GCSE,4,-2,red
+Dan Torn,M,Chemistry,GCSE,9,2,green
+Bob Fawcett,F,Art,GCSE,8,2,green
+Lucille Tracy,M,Geography,GCSE,6,0,blue
+Bob Fawcett,F,English Lang.,GCSE,8,2,green
+Dan Torn,M,Music,GCSE,9,2.5,green
+Dan Torn,M,Maths,GCSE,7,0,blue
+Dan Torn,M,Physics,GCSE,9,2,green
+Reese Kilmer,F,Physics,BASELINE,6.5,-0.5,red
+Tom Miranda,M,Physics,BASELINE,8,1,green
+Jodie Degeneres,F,Physics,BASELINE,9,-1,red
+Tom Mckellen,M,Physics,BASELINE,6.5,-0.5,red
+Sandra Peck,F,Physics,BASELINE,7,2,green
+Elvis Marx,M,Physics,BASELINE,7.5,-1.5,red
+Ray Johansson,M,Spanish,BASELINE,5.5,-0.5,red
+Vivien Bergen,F,Physics,BASELINE,6.5,0.5,green
+Fay Kilmer,F,Spanish,BASELINE,6,3,green
+Gary Phoenix,M,Spanish,BASELINE,5.5,-2.5,red
+Parker Goldberg,M,Physics,BASELINE,5.5,2.5,green
+Anne Cronyn,M,Spanish,BASELINE,5.5,-0.5,red
+Frances Day-Lewis,F,Spanish,BASELINE,5,1,green
+Julia Barrymore,F,Spanish,BASELINE,5.5,0.5,green
+Johnny Cage,M,Spanish,BASELINE,5.5,-1.5,red
+Julia Mcqueen,M,Spanish,BASELINE,5.5,2.5,green
+Sandra Kilmer,M,Spanish,BASELINE,6,-1,red
+Kirsten Paltrow,F,Spanish,BASELINE,4.5,1.5,green
+Karl Berry,F,Spanish,BASELINE,5.5,1.5,green
+Bette Nicholson,M,Spanish,BASELINE,5.5,-2.5,red
+Jennifer Davis,M,Spanish,BASELINE,5,1,green
+Nick Wahlberg,M,Spanish,BASELINE,7,0,blue
+Dan Harris,F,Spanish,BASELINE,7,-1,red
+Nick Wahlberg,M,Physics,BASELINE,7.5,-1.5,red
+Jennifer Davis,M,Physics,BASELINE,6,1,green
+Grace Mostel,M,Physics,BASELINE,7.5,-1.5,red
+Matthew Johansson,M,Physics,BASELINE,8.5,-0.5,red
+Zero Cage,M,Physics,BASELINE,7.5,-0.5,red
+Karl Berry,F,Physics,BASELINE,6,0,blue
+Dan Torn,M,Physics,BASELINE,7,2,green
+Julia Barrymore,F,Physics,BASELINE,6.5,-1.5,red
+Rip Winslet,M,Maths,BASELINE,4.5,-0.5,red
+Mena Temple,M,Physics,BASELINE,8,-2,red
+Frances Day-Lewis,F,Music,BASELINE,5.5,3.5,green
+Tom Miranda,M,Music,BASELINE,7.5,0.5,green
+Johnny Cage,M,Music,BASELINE,6,-1,red
+Audrey Olivier,M,Music,BASELINE,5.5,1.5,green
+Dan Torn,M,Music,BASELINE,6.5,2.5,green
+Helen Voight,M,Music,BASELINE,5,-2,red
+Matthew Johansson,M,Music,BASELINE,7.5,-1.5,red
+Grace Mostel,M,Music,BASELINE,7,0,blue
+Bette Nicholson,M,Music,BASELINE,6,2,green
+Jennifer Davis,M,Maths,BASELINE,5.5,2.5,green
+Carmen Hunt,M,Music,BASELINE,6,1,green
+Ed Chase,M,Maths,BASELINE,4,0,blue
+Julia Mcqueen,M,Maths,BASELINE,6,-1,red
+Woody Hoffman,F,Maths,BASELINE,3,0,blue
+Alec Wayne,M,Maths,BASELINE,5.5,0.5,green
+Sandra Peck,F,Maths,BASELINE,7,2,green
+Sissy Sobieski,M,Maths,BASELINE,5,-1,red
+Tim Hackman,M,Maths,BASELINE,4.5,-0.5,red
+Milla Peck,F,Maths,BASELINE,3.5,0.5,green
+Audrey Olivier,M,Maths,BASELINE,5,1,green
+Judy Dean,M,Maths,BASELINE,5.5,0.5,green
+Burt Dukakis,F,Maths,BASELINE,6,-1,red
+Nick Wahlberg,M,Maths,BASELINE,8,-4,red
+Mena Temple,M,Music,BASELINE,7.5,-1.5,red
+Jude Cruise,F,Music,BASELINE,4,0,blue
+Jessica Bailey,F,Music,BASELINE,5.5,-1.5,red
+Johnny Lollobrigida,M,Maths,BASELINE,5.5,-0.5,red
+Bette Nicholson,M,Maths,BASELINE,5.5,-2.5,red
+Grace Mostel,M,Maths,BASELINE,7,-1,red
+Matthew Johansson,M,Maths,BASELINE,8.5,-0.5,red
+Joe Swank,M,Maths,BASELINE,5.5,-0.5,red
+Christian Gable,M,Maths,BASELINE,7,-2,red
+Zero Cage,M,Maths,BASELINE,7.5,-0.5,red
+Karl Berry,F,Maths,BASELINE,6,0,blue
+Uma Wood,F,Maths,BASELINE,3.5,0.5,green
+Vivien Bergen,F,Maths,BASELINE,6.5,0.5,green
+Cuba Olivier,M,Maths,BASELINE,6,-2,red
+Fred Costner,F,Maths,BASELINE,4,0,blue
+Helen Voight,M,Maths,BASELINE,4.5,-0.5,red
+Dan Torn,M,Maths,BASELINE,7,0,blue
+Bob Fawcett,F,Maths,BASELINE,6,-2,red
+Lucille Tracy,M,Maths,BASELINE,6.5,0.5,green
+Kirsten Paltrow,F,Maths,BASELINE,4.5,0.5,green
+Elvis Marx,M,Maths,BASELINE,7.5,-2.5,red
+Sandra Kilmer,M,Maths,BASELINE,6.5,-2.5,red
+Cameron Streep,M,Maths,BASELINE,5.5,2.5,green
+Kevin Bloom,M,Maths,BASELINE,3.5,-1.5,red
+Rip Crawford,M,Maths,BASELINE,7,-2,red
+Rip Winslet,M,Music,BASELINE,5,0,blue
+Val Bolger,M,Maths,BASELINE,5,0,blue
+Frances Day-Lewis,F,Physics,BASELINE,5.5,1.5,green
+Tom Mckellen,M,Maths,BASELINE,6,0,blue
+Johnny Cage,M,Maths,BASELINE,5.5,-1.5,red
+Fay Kilmer,F,Maths,BASELINE,6.5,-1.5,red
+Dan Harris,F,Maths,BASELINE,7.5,-1.5,red
+Jude Cruise,F,Maths,BASELINE,3,1,green
+Christian Akroyd,M,Maths,BASELINE,5.5,-1.5,red
+Dustin Tautou,M,Maths,BASELINE,3,1,green
+Henry Berry,F,Maths,BASELINE,5.5,-1.5,red
+Christian Neeson,F,Maths,BASELINE,6,0,blue
+Jayne Neeson,M,Maths,BASELINE,5.5,-0.5,red
+Cameron Wray,M,Maths,BASELINE,7.5,-0.5,red
+Ray Johansson,M,Maths,BASELINE,6,-1,red
+Penelope Pinkett,M,Maths,BASELINE,7.5,0.5,green
+Angela Hudson,M,Maths,BASELINE,5.5,0.5,green
+Jessica Bailey,F,Maths,BASELINE,5,1,green
+Kenneth Paltrow,M,Maths,BASELINE,7.5,-3.5,red
+Michelle Mcconaughey,F,Maths,BASELINE,6,1,green
+Adam Grant,M,Maths,BASELINE,6,-1,red
+Sean Williams,M,Maths,BASELINE,7,1,green
+Sean Williams,M,Physics,BASELINE,7,0,blue
+Michelle Mcconaughey,F,Physics,BASELINE,6.5,-0.5,red
+Dan Harris,F,Physics,BASELINE,7.5,0.5,green
+Fay Kilmer,F,Physics,BASELINE,6.5,-0.5,red
+Penelope Pinkett,M,Physics,BASELINE,7.5,0.5,green
+Mary Tandy,M,Maths,BASELINE,7,-1,red
+Mena Temple,M,Maths,BASELINE,8,0,blue
+Carmen Hunt,M,Maths,BASELINE,6,1,green
+Gary Phoenix,M,Maths,BASELINE,5.5,-1.5,red
+Jodie Degeneres,F,Maths,BASELINE,9,-1,red
+Tom Miranda,M,Maths,BASELINE,8.5,-0.5,red
+Kirk Jovovich,M,Maths,BASELINE,5,-2,red
+Nick Stallone,M,Maths,BASELINE,2.5,1.5,green
+Reese Kilmer,F,Maths,BASELINE,6,1,green
+Parker Goldberg,M,Maths,BASELINE,4.5,2.5,green
+Julia Barrymore,F,Maths,BASELINE,6,-1,red
+Frances Day-Lewis,F,Maths,BASELINE,5,2,green
+Adam Grant,M,PE,BASELINE,6,0,blue
+Michelle Mcconaughey,F,PE,BASELINE,6,3,green
+Ray Johansson,M,PE,BASELINE,6,-1,red
+Nick Stallone,M,PE,BASELINE,3.5,3.5,green
+Goldie Brody,M,PE,BASELINE,6,2,green
+Tom Mckellen,M,PE,BASELINE,6,1,green
+Val Bolger,M,PE,BASELINE,5.5,2.5,green
+Judy Dean,M,PE,BASELINE,5.5,-0.5,red
+Audrey Olivier,M,PE,BASELINE,5.5,1.5,green
+Sissy Sobieski,M,PE,BASELINE,5.5,0.5,green
+Kevin Bloom,M,PE,BASELINE,4,1,green
+Cameron Streep,M,PE,BASELINE,5.5,0.5,green
+Fred Costner,F,PE,BASELINE,5,1,green
+Anne Cronyn,M,Maths,BASELINE,6,-1,red
+Natalie Hopkins,M,Maths,BASELINE,5,1,green
+Goldie Brody,M,Maths,BASELINE,6,0,blue
+Joe Swank,M,Drama,BASELINE,5.5,-0.5,red
+Angela Hudson,M,Geography,BASELINE,5.5,0.5,green
+Matthew Johansson,M,History,BASELINE,8,-1,red
+Cuba Olivier,M,Combined Science,BASELINE,5.5,-2.5,red
+Fred Costner,F,Combined Science,BASELINE,4,0.5,green
+Helen Voight,M,Combined Science,BASELINE,4.5,-1,red
+Lucille Tracy,M,Combined Science,BASELINE,5.5,2,green
+Kirsten Paltrow,F,Combined Science,BASELINE,4.5,3,green
+Sandra Kilmer,M,Combined Science,BASELINE,6,-0.5,red
+Cameron Streep,M,Combined Science,BASELINE,5,2,green
+Kevin Bloom,M,Combined Science,BASELINE,3.5,-0.5,red
+Rip Crawford,M,Combined Science,BASELINE,6.5,-1.5,red
+Julia Mcqueen,M,Combined Science,BASELINE,5.5,0,blue
+Alec Wayne,M,Combined Science,BASELINE,5.5,-0.5,red
+Sissy Sobieski,M,Combined Science,BASELINE,4.5,1.5,green
+Tim Hackman,M,Combined Science,BASELINE,4.5,-1,red
+Milla Peck,F,Combined Science,BASELINE,3.5,0.5,green
+Audrey Olivier,M,Combined Science,BASELINE,4.5,2,green
+Judy Dean,M,Combined Science,BASELINE,5,0,blue
+Burt Dukakis,F,Combined Science,BASELINE,5.5,-1,red
+Val Bolger,M,Combined Science,BASELINE,4.5,2.5,green
+Goldie Brody,M,Combined Science,BASELINE,5.5,2,green
+Johnny Cage,M,Combined Science,BASELINE,5,-0.5,red
+Kirk Jovovich,M,Combined Science,BASELINE,4.5,-0.5,red
+Nick Stallone,M,Combined Science,BASELINE,3,2,green
+Anne Cronyn,M,Combined Science,BASELINE,5.5,0,blue
+Uma Wood,F,Combined Science,BASELINE,3.5,1.5,green
+Christian Gable,M,Combined Science,BASELINE,6,-0.5,red
+Joe Swank,M,Combined Science,BASELINE,5.5,-0.5,red
+Bette Nicholson,M,Combined Science,BASELINE,5,-1,red
+Zero Cage,M,Computer Science,BASELINE,6.5,0.5,green
+Vivien Bergen,F,Computer Science,BASELINE,5,1,green
+Cuba Olivier,M,Computer Science,BASELINE,4.5,-3.5,red
+Lucille Tracy,M,Computer Science,BASELINE,5,-1,red
+Elvis Marx,M,Computer Science,BASELINE,6,-1,red
+Rip Crawford,M,Computer Science,BASELINE,6,-3,red
+Julia Mcqueen,M,Computer Science,BASELINE,5,-2,red
+Audrey Olivier,M,Computer Science,BASELINE,4,-1,red
+Goldie Brody,M,Computer Science,BASELINE,4.5,0.5,green
+Johnny Cage,M,Computer Science,BASELINE,4.5,-1.5,red
+Jodie Degeneres,F,Computer Science,BASELINE,8,0,blue
+Natalie Hopkins,M,Combined Science,BASELINE,5,1.5,green
+Anne Cronyn,M,Computer Science,BASELINE,5,-2,red
+Carmen Hunt,M,Computer Science,BASELINE,5,1,green
+Mena Temple,M,Computer Science,BASELINE,7,-3,red
+Penelope Pinkett,M,Computer Science,BASELINE,6.5,-1.5,red
+Dustin Tautou,M,Computer Science,BASELINE,2,-1,red
+Christian Neeson,F,Computer Science,BASELINE,5,-1,red
+Jayne Neeson,M,Computer Science,BASELINE,4.5,0.5,green
+Angela Hudson,M,Computer Science,BASELINE,4.5,0.5,green
+Jessica Bailey,F,Computer Science,BASELINE,4,0,blue
+Sean Williams,M,Computer Science,BASELINE,5.5,-0.5,red
+Ed Chase,M,Combined Science,BASELINE,4,-1.5,red
+Johnny Lollobrigida,M,Combined Science,BASELINE,5,0,blue
+Natalie Hopkins,M,Computer Science,BASELINE,4,0,blue
+Joe Swank,M,Computer Science,BASELINE,4.5,-0.5,red
+Gary Phoenix,M,Combined Science,BASELINE,5,0.5,green
+Jude Cruise,F,Combined Science,BASELINE,3,0.5,green
+Frances Day-Lewis,F,Chemistry,BASELINE,5.5,1.5,green
+Mena Temple,M,Chemistry,BASELINE,8,-2,red
+Penelope Pinkett,M,Chemistry,BASELINE,7.5,-1.5,red
+Fay Kilmer,F,Chemistry,BASELINE,6.5,-0.5,red
+Dan Harris,F,Chemistry,BASELINE,7.5,-1.5,red
+Michelle Mcconaughey,F,Chemistry,BASELINE,6.5,0.5,green
+Sean Williams,M,Chemistry,BASELINE,7,0,blue
+Nick Wahlberg,M,Biology,BASELINE,8,-2,red
+Jennifer Davis,M,Biology,BASELINE,6,0,blue
+Grace Mostel,M,Biology,BASELINE,7.5,-0.5,red
+Matthew Johansson,M,Biology,BASELINE,8.5,-0.5,red
+Zero Cage,M,Biology,BASELINE,7.5,-1.5,red
+Karl Berry,F,Biology,BASELINE,6.5,-0.5,red
+Vivien Bergen,F,Biology,BASELINE,6.5,0.5,green
+Dan Torn,M,Biology,BASELINE,7,2,green
+Elvis Marx,M,Biology,BASELINE,7.5,0.5,green
+Woody Hoffman,F,Biology,BASELINE,4.5,-1.5,red
+Sandra Peck,F,Biology,BASELINE,7,1,green
+Tom Mckellen,M,Biology,BASELINE,6.5,-0.5,red
+Jodie Degeneres,F,Biology,BASELINE,9,-2,red
+Tom Miranda,M,Biology,BASELINE,8,0,blue
+Reese Kilmer,F,Biology,BASELINE,6.5,-1.5,red
+Parker Goldberg,M,Biology,BASELINE,5.5,3.5,green
+Julia Barrymore,F,Chemistry,BASELINE,6.5,-1.5,red
+Parker Goldberg,M,Chemistry,BASELINE,5.5,2.5,green
+Reese Kilmer,F,Chemistry,BASELINE,6.5,-1.5,red
+Tom Miranda,M,Chemistry,BASELINE,8,1,green
+Dustin Tautou,M,Combined Science,BASELINE,3.5,0.5,green
+Henry Berry,F,Combined Science,BASELINE,5,-0.5,red
+Christian Neeson,F,Combined Science,BASELINE,5.5,0.5,green
+Jayne Neeson,M,Combined Science,BASELINE,5,0.5,green
+Cameron Wray,M,Combined Science,BASELINE,6.5,1.5,green
+Ray Johansson,M,Combined Science,BASELINE,5.5,0,blue
+Angela Hudson,M,Combined Science,BASELINE,5,1.5,green
+Mary Tandy,M,Combined Science,BASELINE,6,1.5,green
+Jessica Bailey,F,Combined Science,BASELINE,4.5,2,green
+Rip Winslet,M,Combined Science,BASELINE,4.5,0.5,green
+Kenneth Paltrow,M,Combined Science,BASELINE,6.5,-1.5,red
+Carmen Hunt,M,Combined Science,BASELINE,5.5,2,green
+Adam Grant,M,Combined Science,BASELINE,5.5,0.5,green
+Jennifer Davis,M,Chemistry,BASELINE,6,1,green
+Grace Mostel,M,Chemistry,BASELINE,7,0,blue
+Matthew Johansson,M,Chemistry,BASELINE,8,0,blue
+Zero Cage,M,Chemistry,BASELINE,7.5,-0.5,red
+Karl Berry,F,Chemistry,BASELINE,6,0,blue
+Vivien Bergen,F,Chemistry,BASELINE,6.5,1.5,green
+Dan Torn,M,Chemistry,BASELINE,7,2,green
+Elvis Marx,M,Chemistry,BASELINE,7,-1,red
+Sandra Peck,F,Chemistry,BASELINE,7,2,green
+Tom Mckellen,M,Chemistry,BASELINE,6.5,-0.5,red
+Jodie Degeneres,F,Chemistry,BASELINE,8.5,-0.5,red
+Nick Wahlberg,M,Chemistry,BASELINE,7.5,-1.5,red
+Jennifer Davis,M,Computer Science,BASELINE,4.5,-0.5,red
+Sean Williams,M,3D Design,BASELINE,6.5,2.5,green
+Angela Hudson,M,3D Design,BASELINE,5.5,2.5,green
+Audrey Olivier,M,3D Design,BASELINE,5,2,green
+Judy Dean,M,3D Design,BASELINE,5.5,2.5,green
+Val Bolger,M,3D Design,BASELINE,5,3,green
+Goldie Brody,M,3D Design,BASELINE,5.5,0.5,green
+Sean Williams,M,English Lang.,BASELINE,6.5,-1.5,red
+Adam Grant,M,English Lang.,BASELINE,6,-1,red
+Michelle Mcconaughey,F,English Lang.,BASELINE,6,3,green
+Kenneth Paltrow,M,English Lang.,BASELINE,7,-2,red
+Rip Winslet,M,English Lang.,BASELINE,4.5,-0.5,red
+Jessica Bailey,F,English Lang.,BASELINE,5,1,green
+Mary Tandy,M,English Lang.,BASELINE,6.5,0.5,green
+Angela Hudson,M,English Lang.,BASELINE,5.5,-0.5,red
+Ray Johansson,M,English Lang.,BASELINE,6,-3,red
+Cameron Wray,M,English Lang.,BASELINE,7,-1,red
+Jayne Neeson,M,English Lang.,BASELINE,5.5,0.5,green
+Christian Neeson,F,English Lang.,BASELINE,6,0,blue
+Henry Berry,F,English Lang.,BASELINE,5.5,-0.5,red
+Dustin Tautou,M,English Lang.,BASELINE,3.5,1.5,green
+Christian Akroyd,M,English Lang.,BASELINE,5.5,0.5,green
+Jude Cruise,F,English Lang.,BASELINE,3.5,0.5,green
+Dan Harris,F,English Lang.,BASELINE,7,1,green
+Fay Kilmer,F,English Lang.,BASELINE,6.5,-0.5,red
+Penelope Pinkett,M,English Lang.,BASELINE,7,-1,red
+Milla Peck,F,3D Design,BASELINE,4,2,green
+Tim Hackman,M,3D Design,BASELINE,5,4,green
+Sissy Sobieski,M,3D Design,BASELINE,5,1,green
+Elvis Marx,M,3D Design,BASELINE,6.5,1.5,green
+Christian Gable,M,Drama,BASELINE,6,0,blue
+Karl Berry,F,Drama,BASELINE,5.5,2.5,green
+Uma Wood,F,Drama,BASELINE,4,1,green
+Helen Voight,M,Drama,BASELINE,5,-1,red
+Dan Torn,M,Drama,BASELINE,6.5,2.5,green
+Bob Fawcett,F,Drama,BASELINE,5.5,0.5,green
+Woody Hoffman,F,Drama,BASELINE,4,1,green
+Alec Wayne,M,Drama,BASELINE,5.5,-1.5,red
+Sandra Peck,F,Drama,BASELINE,6,2,green
+Burt Dukakis,F,Drama,BASELINE,6,-1,red
+Kirk Jovovich,M,Drama,BASELINE,5,0,blue
+Mena Temple,M,English Lang.,BASELINE,7.5,-2.5,red
+Reese Kilmer,F,Drama,BASELINE,6,-2,red
+Carmen Hunt,M,Drama,BASELINE,6,2,green
+Mena Temple,M,Drama,BASELINE,7,-2,red
+Jude Cruise,F,Drama,BASELINE,4,-2,red
+Henry Berry,F,Drama,BASELINE,5.5,-1.5,red
+Cameron Wray,M,Drama,BASELINE,6.5,-0.5,red
+Rip Winslet,M,Drama,BASELINE,5,0,blue
+Michelle Mcconaughey,F,Drama,BASELINE,6,1,green
+Sean Williams,M,Drama,BASELINE,6.5,0.5,green
+Bette Nicholson,M,3D Design,BASELINE,5.5,-0.5,red
+Cuba Olivier,M,3D Design,BASELINE,5.5,-1.5,red
+Helen Voight,M,3D Design,BASELINE,5,1,green
+Gary Phoenix,M,Drama,BASELINE,5.5,0.5,green
+Carmen Hunt,M,English Lang.,BASELINE,6,1,green
+Gary Phoenix,M,English Lang.,BASELINE,5.5,1.5,green
+Natalie Hopkins,M,English Lang.,BASELINE,5,0,blue
+Kirsten Paltrow,F,English Lang.,BASELINE,5,2,green
+Lucille Tracy,M,English Lang.,BASELINE,6,2,green
+Bob Fawcett,F,English Lang.,BASELINE,6,2,green
+Dan Torn,M,English Lang.,BASELINE,6.5,1.5,green
+Reese Kilmer,F,3D Design,BASELINE,6,2,green
+Fred Costner,F,English Lang.,BASELINE,4.5,-0.5,red
+Cuba Olivier,M,English Lang.,BASELINE,5.5,-2.5,red
+Vivien Bergen,F,English Lang.,BASELINE,6,0,blue
+Uma Wood,F,English Lang.,BASELINE,4,0,blue
+Karl Berry,F,English Lang.,BASELINE,6,1,green
+Zero Cage,M,English Lang.,BASELINE,7,-1,red
+Elvis Marx,M,English Lang.,BASELINE,7,-2,red
+Christian Gable,M,English Lang.,BASELINE,6.5,-1.5,red
+Matthew Johansson,M,English Lang.,BASELINE,8,1,green
+Grace Mostel,M,English Lang.,BASELINE,7,1,green
+Bette Nicholson,M,English Lang.,BASELINE,5.5,1.5,green
+Johnny Lollobrigida,M,English Lang.,BASELINE,5.5,-0.5,red
+Jennifer Davis,M,English Lang.,BASELINE,5.5,-1.5,red
+Nick Wahlberg,M,English Lang.,BASELINE,7.5,-1.5,red
+Parker Goldberg,M,3D Design,BASELINE,5,2,green
+Anne Cronyn,M,3D Design,BASELINE,5.5,1.5,green
+Natalie Hopkins,M,3D Design,BASELINE,5,4,green
+Christian Akroyd,M,3D Design,BASELINE,5.5,2.5,green
+Christian Neeson,F,3D Design,BASELINE,6,1,green
+Joe Swank,M,English Lang.,BASELINE,5.5,-1.5,red
+Julia Barrymore,F,Biology,BASELINE,6.5,-0.5,red
+Sandra Kilmer,M,English Lang.,BASELINE,6.5,-0.5,red
+Kevin Bloom,M,English Lang.,BASELINE,4,0,blue
+Anne Cronyn,M,English Lang.,BASELINE,6,0,blue
+Frances Day-Lewis,F,English Lang.,BASELINE,5,4,green
+Julia Barrymore,F,English Lang.,BASELINE,6,0,blue
+Parker Goldberg,M,English Lang.,BASELINE,5,1,green
+Reese Kilmer,F,English Lang.,BASELINE,6,-1,red
+Nick Stallone,M,English Lang.,BASELINE,3,1,green
+Kirk Jovovich,M,English Lang.,BASELINE,5,-2,red
+Tom Miranda,M,English Lang.,BASELINE,7.5,0.5,green
+Jodie Degeneres,F,English Lang.,BASELINE,8.5,-1.5,red
+Johnny Cage,M,English Lang.,BASELINE,5.5,-0.5,red
+Goldie Brody,M,English Lang.,BASELINE,5.5,0.5,green
+Cameron Streep,M,English Lang.,BASELINE,5.5,-0.5,red
+Tom Mckellen,M,English Lang.,BASELINE,6,-3,red
+Burt Dukakis,F,English Lang.,BASELINE,6,-2,red
+Judy Dean,M,English Lang.,BASELINE,5.5,-0.5,red
+Audrey Olivier,M,English Lang.,BASELINE,5,0,blue
+Milla Peck,F,English Lang.,BASELINE,4,0,blue
+Tim Hackman,M,English Lang.,BASELINE,5,-2,red
+Sissy Sobieski,M,English Lang.,BASELINE,5,1,green
+Sandra Peck,F,English Lang.,BASELINE,6.5,1.5,green
+Alec Wayne,M,English Lang.,BASELINE,5.5,0.5,green
+Woody Hoffman,F,English Lang.,BASELINE,4,0,blue
+Julia Mcqueen,M,English Lang.,BASELINE,6,-1,red
+Rip Crawford,M,English Lang.,BASELINE,6.5,-1.5,red
+Val Bolger,M,English Lang.,BASELINE,5,0,blue
+Grace Mostel,M,History,BASELINE,7,1,green
+Frances Day-Lewis,F,Biology,BASELINE,5.5,1.5,green
+Penelope Pinkett,M,Biology,BASELINE,7.5,-0.5,red
+Fay Kilmer,F,French,BASELINE,6,3,green
+Mena Temple,M,French,BASELINE,7,-1,red
+Tom Miranda,M,French,BASELINE,7.5,0.5,green
+Judy Dean,M,French,BASELINE,5,-1,red
+Sissy Sobieski,M,French,BASELINE,4.5,0.5,green
+Sandra Peck,F,French,BASELINE,6,1,green
+Rip Crawford,M,French,BASELINE,6.5,-3.5,red
+Sandra Kilmer,M,French,BASELINE,6,0,blue
+Kirsten Paltrow,F,French,BASELINE,4.5,2.5,green
+Lucille Tracy,M,French,BASELINE,6,1,green
+Dan Torn,M,French,BASELINE,6,2,green
+Vivien Bergen,F,French,BASELINE,6,1,green
+Matthew Johansson,M,French,BASELINE,7.5,1.5,green
+Grace Mostel,M,French,BASELINE,6.5,2.5,green
+Nick Wahlberg,M,French,BASELINE,7,-1,red
+Sean Williams,M,Geography,BASELINE,6.5,-0.5,red
+Adam Grant,M,Geography,BASELINE,6,-1,red
+Michelle Mcconaughey,F,Geography,BASELINE,6,3,green
+Kenneth Paltrow,M,Geography,BASELINE,7.5,-1.5,red
+Rip Winslet,M,Geography,BASELINE,4.5,0.5,green
+Mary Tandy,M,Geography,BASELINE,7,1,green
+Johnny Lollobrigida,M,Drama,BASELINE,5.5,-0.5,red
+Cameron Wray,M,Geography,BASELINE,7,-1,red
+Christian Neeson,F,French,BASELINE,5.5,3.5,green
+Jayne Neeson,M,French,BASELINE,5,-1,red
+Ray Johansson,M,French,BASELINE,5.5,0.5,green
+Mary Tandy,M,French,BASELINE,6.5,-0.5,red
+Rip Winslet,M,Food Prep. & Nut.,BASELINE,5,1,green
+Angela Hudson,M,Food Prep. & Nut.,BASELINE,5.5,1.5,green
+Dustin Tautou,M,Food Prep. & Nut.,BASELINE,4,0,blue
+Christian Akroyd,M,Food Prep. & Nut.,BASELINE,5.5,0.5,green
+Penelope Pinkett,M,Food Prep. & Nut.,BASELINE,7,0,blue
+Frances Day-Lewis,F,Food Prep. & Nut.,BASELINE,5.5,2.5,green
+Parker Goldberg,M,Food Prep. & Nut.,BASELINE,5,1,green
+Kirk Jovovich,M,Food Prep. & Nut.,BASELINE,5,-1,red
+Goldie Brody,M,Food Prep. & Nut.,BASELINE,6,0,blue
+Tom Mckellen,M,Food Prep. & Nut.,BASELINE,6,-1,red
+Val Bolger,M,Food Prep. & Nut.,BASELINE,5,0,blue
+Jayne Neeson,M,Geography,BASELINE,5.5,0.5,green
+Sissy Sobieski,M,Food Prep. & Nut.,BASELINE,5,0,blue
+Woody Hoffman,F,Food Prep. & Nut.,BASELINE,4,1,green
+Kevin Bloom,M,Food Prep. & Nut.,BASELINE,4,-1,red
+Cameron Streep,M,Food Prep. & Nut.,BASELINE,5.5,-1.5,red
+Vivien Bergen,F,Food Prep. & Nut.,BASELINE,6,1,green
+Christian Gable,M,Food Prep. & Nut.,BASELINE,6.5,-0.5,red
+Johnny Lollobrigida,M,Food Prep. & Nut.,BASELINE,5.5,-1.5,red
+Ed Chase,M,Food Prep. & Nut.,BASELINE,4.5,-1.5,red
+Nick Wahlberg,M,Food Prep. & Nut.,BASELINE,7.5,-0.5,red
+Adam Grant,M,French,BASELINE,5.5,-0.5,red
+Michelle Mcconaughey,F,French,BASELINE,5.5,2.5,green
+Kenneth Paltrow,M,French,BASELINE,6.5,-1.5,red
+Sandra Peck,F,Food Prep. & Nut.,BASELINE,6.5,2.5,green
+Kenneth Paltrow,M,Food Prep. & Nut.,BASELINE,7,-2,red
+Henry Berry,F,Geography,BASELINE,5.5,-1.5,red
+Dan Harris,F,Geography,BASELINE,7.5,0.5,green
+Zero Cage,M,Geography,BASELINE,7.5,-2.5,red
+Christian Gable,M,Geography,BASELINE,6.5,-1.5,red
+Jennifer Davis,M,Geography,BASELINE,5.5,0.5,green
+Nick Wahlberg,M,Geography,BASELINE,7.5,-1.5,red
+Mary Tandy,M,History,BASELINE,6.5,1.5,green
+Cameron Wray,M,History,BASELINE,7,-1,red
+Henry Berry,F,History,BASELINE,5.5,-1.5,red
+Dan Harris,F,History,BASELINE,7.5,-0.5,red
+Penelope Pinkett,M,History,BASELINE,7.5,-0.5,red
+Gary Phoenix,M,History,BASELINE,5.5,1.5,green
+Julia Barrymore,F,History,BASELINE,6,-2,red
+Tom Miranda,M,History,BASELINE,8,-1,red
+Johnny Cage,M,History,BASELINE,5.5,-0.5,red
+Alec Wayne,M,History,BASELINE,5.5,-0.5,red
+Kevin Bloom,M,History,BASELINE,3.5,-0.5,red
+Cameron Streep,M,History,BASELINE,5.5,-1.5,red
+Elvis Marx,M,History,BASELINE,7,-2,red
+Lucille Tracy,M,History,BASELINE,6,-1,red
+Bob Fawcett,F,History,BASELINE,6,3,green
+Dan Torn,M,History,BASELINE,6.5,1.5,green
+Uma Wood,F,History,BASELINE,4,-1,red
+Zero Cage,M,History,BASELINE,7,-2,red
+Joe Swank,M,History,BASELINE,5.5,-0.5,red
+Karl Berry,F,Geography,BASELINE,6,1,green
+Cuba Olivier,M,Geography,BASELINE,6,-3,red
+Lucille Tracy,M,Geography,BASELINE,6,0,blue
+Kirsten Paltrow,F,Geography,BASELINE,4.5,2.5,green
+Fay Kilmer,F,Geography,BASELINE,6.5,-2.5,red
+Penelope Pinkett,M,Geography,BASELINE,7.5,0.5,green
+Gary Phoenix,M,Geography,BASELINE,5.5,0.5,green
+Natalie Hopkins,M,Geography,BASELINE,5,0,blue
+Anne Cronyn,M,Geography,BASELINE,6,-1,red
+Frances Day-Lewis,F,Geography,BASELINE,5,3,green
+Julia Barrymore,F,Geography,BASELINE,6,1,green
+Parker Goldberg,M,Geography,BASELINE,5,2,green
+Reese Kilmer,F,Geography,BASELINE,6,-2,red
+Nick Stallone,M,Geography,BASELINE,2.5,2.5,green
+Tom Miranda,M,Geography,BASELINE,8,-1,red
+Dustin Tautou,M,Geography,BASELINE,3.5,0.5,green
+Jodie Degeneres,F,Geography,BASELINE,9,-2,red
+Burt Dukakis,F,Geography,BASELINE,6,-1,red
+Judy Dean,M,Geography,BASELINE,5.5,-1.5,red
+Tim Hackman,M,Geography,BASELINE,5,-2,red
+Sandra Peck,F,Geography,BASELINE,6.5,1.5,green
+Woody Hoffman,F,Geography,BASELINE,3.5,-0.5,red
+Julia Mcqueen,M,Geography,BASELINE,6,-1,red
+Rip Crawford,M,Geography,BASELINE,7,-5,red
+Kevin Bloom,M,Geography,BASELINE,3.5,-0.5,red
+Cameron Streep,M,Geography,BASELINE,5.5,0.5,green
+Sandra Kilmer,M,Geography,BASELINE,6.5,-1.5,red
+Elvis Marx,M,Geography,BASELINE,7,-1,red
+Tom Mckellen,M,Geography,BASELINE,6,-1,red
+Joe Swank,M,Film Studies,BASELINE,5.5,-2.5,red
+Karl Berry,F,Film Studies,BASELINE,5.5,3.5,green
+Alec Wayne,M,Film Studies,BASELINE,5.5,1.5,green
+Christian Neeson,F,English Lit.,BASELINE,6,-1,red
+Henry Berry,F,English Lit.,BASELINE,5.5,-1.5,red
+Dustin Tautou,M,English Lit.,BASELINE,4,0,blue
+Christian Akroyd,M,English Lit.,BASELINE,5.5,-2.5,red
+Jude Cruise,F,English Lit.,BASELINE,3.5,-0.5,red
+Dan Harris,F,English Lit.,BASELINE,7,0,blue
+Fay Kilmer,F,English Lit.,BASELINE,6.5,0.5,green
+Penelope Pinkett,M,English Lit.,BASELINE,7.5,-1.5,red
+Mena Temple,M,English Lit.,BASELINE,7.5,-3.5,red
+Carmen Hunt,M,English Lit.,BASELINE,6,0,blue
+Gary Phoenix,M,English Lit.,BASELINE,5.5,1.5,green
+Natalie Hopkins,M,English Lit.,BASELINE,5.5,-0.5,red
+Anne Cronyn,M,English Lit.,BASELINE,6,-2,red
+Frances Day-Lewis,F,English Lit.,BASELINE,5.5,2.5,green
+Julia Barrymore,F,English Lit.,BASELINE,6,-2,red
+Parker Goldberg,M,English Lit.,BASELINE,5,1,green
+Reese Kilmer,F,English Lit.,BASELINE,6,-2,red
+Nick Stallone,M,English Lit.,BASELINE,3.5,-1.5,red
+Kirk Jovovich,M,English Lit.,BASELINE,5,-2,red
+Tom Miranda,M,English Lit.,BASELINE,8,1,green
+Johnny Cage,M,English Lit.,BASELINE,6,-2,red
+Goldie Brody,M,English Lit.,BASELINE,6,-1,red
+Tom Mckellen,M,English Lit.,BASELINE,6,-3,red
+Jayne Neeson,M,English Lit.,BASELINE,5.5,0.5,green
+Cameron Wray,M,English Lit.,BASELINE,7,-2,red
+Ray Johansson,M,English Lit.,BASELINE,6,-4,red
+Angela Hudson,M,English Lit.,BASELINE,5.5,-1.5,red
+Fay Kilmer,F,Biology,BASELINE,7,-1,red
+Dan Harris,F,Biology,BASELINE,7.5,-1.5,red
+Michelle Mcconaughey,F,Biology,BASELINE,6.5,0.5,green
+Sean Williams,M,Biology,BASELINE,7,0,blue
+Ed Chase,M,Art,BASELINE,5,-1,red
+Jennifer Davis,M,Art,BASELINE,6,1,green
+Johnny Lollobrigida,M,Art,BASELINE,6,0,blue
+Bette Nicholson,M,Art,BASELINE,6,-2,red
+Grace Mostel,M,Art,BASELINE,7,1,green
+Matthew Johansson,M,Art,BASELINE,7.5,0.5,green
+Christian Gable,M,Art,BASELINE,6.5,-1.5,red
+Val Bolger,M,English Lit.,BASELINE,5,-1,red
+Uma Wood,F,Art,BASELINE,5,3,green
+Fred Costner,F,Art,BASELINE,5,1,green
+Bob Fawcett,F,Art,BASELINE,6,2,green
+Sandra Kilmer,M,Art,BASELINE,6.5,2.5,green
+Julia Mcqueen,M,Art,BASELINE,6,0,blue
+Sean Williams,M,English Lit.,BASELINE,6.5,-0.5,red
+Adam Grant,M,English Lit.,BASELINE,6,-2,red
+Michelle Mcconaughey,F,English Lit.,BASELINE,6,3,green
+Kenneth Paltrow,M,English Lit.,BASELINE,7,-2,red
+Rip Winslet,M,English Lit.,BASELINE,5,-1,red
+Jessica Bailey,F,English Lit.,BASELINE,5,1,green
+Mary Tandy,M,English Lit.,BASELINE,6.5,0.5,green
+Vivien Bergen,F,Art,BASELINE,6.5,-0.5,red
+Burt Dukakis,F,English Lit.,BASELINE,6,-1,red
+Judy Dean,M,English Lit.,BASELINE,5.5,-0.5,red
+Audrey Olivier,M,English Lit.,BASELINE,5.5,0.5,green
+Johnny Lollobrigida,M,English Lit.,BASELINE,5.5,-0.5,red
+Jennifer Davis,M,English Lit.,BASELINE,5.5,0.5,green
+Nick Wahlberg,M,English Lit.,BASELINE,7.5,-3.5,red
+Tim Hackman,M,Art,BASELINE,5.5,2.5,green
+Burt Dukakis,F,Art,BASELINE,6,2,green
+Tom Mckellen,M,Art,BASELINE,6,-2,red
+Jodie Degeneres,F,Art,BASELINE,8,0,blue
+Kirk Jovovich,M,Art,BASELINE,5.5,-1.5,red
+Nick Stallone,M,Art,BASELINE,4.5,1.5,green
+Julia Barrymore,F,Art,BASELINE,6,2,green
+Fay Kilmer,F,Art,BASELINE,6.5,2.5,green
+Bette Nicholson,M,English Lit.,BASELINE,6,-2,red
+Dan Harris,F,Art,BASELINE,7,1,green
+Jayne Neeson,M,Art,BASELINE,6,3,green
+Cameron Wray,M,Art,BASELINE,7,-2,red
+Kenneth Paltrow,M,Art,BASELINE,7,1,green
+Adam Grant,M,Art,BASELINE,6,-1,red
+Jessica Bailey,F,Film Studies,BASELINE,5,1,green
+Mary Tandy,M,Film Studies,BASELINE,6.5,-0.5,red
+Ray Johansson,M,Film Studies,BASELINE,5.5,-1.5,red
+Christian Akroyd,M,Film Studies,BASELINE,5.5,-0.5,red
+Carmen Hunt,M,Film Studies,BASELINE,6,1,green
+Parker Goldberg,M,Film Studies,BASELINE,5,1,green
+Kirk Jovovich,M,Film Studies,BASELINE,5,0,blue
+Christian Neeson,F,Art,BASELINE,6,2,green
+Mena Temple,M,Biology,BASELINE,8,-2,red
+Grace Mostel,M,English Lit.,BASELINE,7,0,blue
+Joe Swank,M,English Lit.,BASELINE,6,-2,red
+Milla Peck,F,English Lit.,BASELINE,4,-1,red
+Tim Hackman,M,English Lit.,BASELINE,5,1,green
+Sissy Sobieski,M,English Lit.,BASELINE,5,0,blue
+Sandra Peck,F,English Lit.,BASELINE,6.5,1.5,green
+Alec Wayne,M,English Lit.,BASELINE,6,-1,red
+Woody Hoffman,F,English Lit.,BASELINE,4,0,blue
+Julia Mcqueen,M,English Lit.,BASELINE,6,-2,red
+Rip Crawford,M,English Lit.,BASELINE,7,-5,red
+Kevin Bloom,M,English Lit.,BASELINE,4,-1,red
+Cameron Streep,M,English Lit.,BASELINE,5.5,-1.5,red
+Sandra Kilmer,M,English Lit.,BASELINE,6.5,-1.5,red
+Matthew Johansson,M,English Lit.,BASELINE,8,1,green
+Elvis Marx,M,English Lit.,BASELINE,7,-3,red
+Lucille Tracy,M,English Lit.,BASELINE,6,1,green
+Bob Fawcett,F,English Lit.,BASELINE,6,3,green
+Dan Torn,M,English Lit.,BASELINE,6.5,0.5,green
+Helen Voight,M,English Lit.,BASELINE,5,-2,red
+Fred Costner,F,English Lit.,BASELINE,4.5,-0.5,red
+Cuba Olivier,M,English Lit.,BASELINE,6,-4,red
+Vivien Bergen,F,English Lit.,BASELINE,6.5,-0.5,red
+Uma Wood,F,English Lit.,BASELINE,4,0,blue
+Karl Berry,F,English Lit.,BASELINE,6,0,blue
+Zero Cage,M,English Lit.,BASELINE,7,-3,red
+Christian Gable,M,English Lit.,BASELINE,6.5,-0.5,red
+Kirsten Paltrow,F,English Lit.,BASELINE,5,3,green
+Helen Voight,M,English Lang.,BASELINE,5,-1,red
