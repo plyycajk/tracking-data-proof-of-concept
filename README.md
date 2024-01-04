@@ -7,6 +7,7 @@
 1. [File structure](#file-structure)
     - [Results App](#bootstrapped_resultspy)
     - [merged_yellis_diff_with_exams.csv](#merged_yellis_diff_with_examscsv)
+1. [Future Development](#future-development)
 1. [License information](#license-information)
 
 ## Description
@@ -50,6 +51,12 @@ The gif below shows this chart updating dynamically upon changing the hovered da
 Where a particular student is of interest (for example where their mock results for a subject are much higher than their final GCSE performance), <b>clicking</b> on a datapoint on the boxplot will bring up another scatter graph that shows the performance by that student across all of their subjects. This is useful for reviewing if they under/overpeformed their baseline across all subjects or particular subgroups of subjects.
 
 ![Subject Comparison](Images/Comparisonsmov.gif)
+
+## Future Development
+
+In next steps I will look to develop this as seomthing that can be deployed as a Dash App to run on a server (as opposed to running on a device locally).
+
+I will also look to develop this into a multi-page app and look at integrating user sign-in into the code.
 
 
 ## File structure
