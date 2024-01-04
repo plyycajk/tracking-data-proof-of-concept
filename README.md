@@ -5,7 +5,8 @@
 1. [Installation instructions](#installation-instructions)
 1. [Usage instructions](#usage-instructions)
 1. [File structure](#file-structure)
-    - [Results App script](#)
+    - [Results App](#bootstrapped_resultspy)
+    - [merged_yellis_diff_with_exams.csv](#merged_yellis_diff_with_examscsv)
 1. [License information](#license-information)
 
 ## Description
@@ -32,8 +33,17 @@ The below gif shows how, with a simple click, an educator can view the distribut
 
 The dashboard showcases how interactivity can help to segement the data in an easy and intuitive manner. Hovering on a particular student populates a scatter graph that shows their progress across the exam series for that particular subject. This chart includes the following features:
 - colour coding of the line to demonstrate whether a student met (blue), exceeded (green) or did not meet (red) their basline grade for that subject
+
+![Alt text](Images/Red.png)
+![Alt text](Images/Blue.png)
+![Alt text](Images/Green.png)
+
 - a reference line showing the baseline grade across the series - this is useful for indicating if performance increases throughout a course
 - a range indicator showing what the maximum and minimum results are across the series for that student (and their comparison to the baseline data)
+
+![Alt text](Images/Range.png)
+
+The gif below shows this chart updating dynamically upon changing the hovered datapoint on the boxplot.
 
 ![Hovering on a student](Images/Hover.gif)
 
@@ -47,6 +57,8 @@ Where a particular student is of interest (for example where their mock results 
 ### bootstrapped_results.py 
 This is the script that will run the dashboard when run from the terminal.
 
+### merged_yellis_diff_with_exams.csv
+This is a csv file of the data generated to showcase the dashboard - this was done separately in python but the steps to do so are not included within this repository
 
 ## License information
 
