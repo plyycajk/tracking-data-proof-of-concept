@@ -47,7 +47,7 @@ The gif below shows this chart updating dynamically upon changing the hovered da
 
 ![Hovering on a student](Images/Hover.gif)
 
-Where a particular student is of interest (for example where their mock results for a subject are much higher than their final GCSE performance), clicking on a datapoint on the boxplot will bring up another scatter graph that shows the performance by that student across all of their subjects. This is useful for reviewing if they under/overpeformed their baseline across all subjects or particular subgroups of subjects.
+Where a particular student is of interest (for example where their mock results for a subject are much higher than their final GCSE performance), <b>clicking</b> on a datapoint on the boxplot will bring up another scatter graph that shows the performance by that student across all of their subjects. This is useful for reviewing if they under/overpeformed their baseline across all subjects or particular subgroups of subjects.
 
 ![Subject Comparison](Images/Comparisonsmov.gif)
 
@@ -59,6 +59,9 @@ This is the script that will run the dashboard when run from the terminal.
 
 ### merged_yellis_diff_with_exams.csv
 This is a csv file of the data generated to showcase the dashboard - this was done separately in python but the steps to do so are not included within this repository
+
+### requirements.txt
+Lists the required modules for this project
 
 ## License information
 
